@@ -1,0 +1,9 @@
+# Aprovação, promulgação e assinaturas
+
+Visto e aprovado em Conselho de Ministros, aos 14 do mês de Maio de 2010.- O Primeiro-Ministro e Chefe do Governo;Dr. Joaquim Rafael Branco; A Ministra da Justiça, da Reforma do Estado da Administração Pública e dos Assuntos Parlamentares; Dra. Elsa Teixeira de Barros Pinto; A Ministra do Plano e Finanças, Dr.ª Ângela Viegas Santiago.
+
+Promulgado em 27 de Maio de 2010.
+
+Publique-se
+
+O Presidente da República, Fradique Bandeira Melo de Menezes.
