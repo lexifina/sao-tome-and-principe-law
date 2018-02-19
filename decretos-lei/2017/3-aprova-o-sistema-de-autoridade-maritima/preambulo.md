@@ -1,0 +1,23 @@
+# Preâmbulo
+
+As novas realidades e os novos desafios que se apresentam à segurança marítima, acompanhados pela evolução da regulamentação técnica internacional fizeram incidir a atenção dos Estados em matéria de segurança marítima, em geral, e de proteção do ecossistema marinho, em particular. Estas circunstâncias determinam, ao longo do tempo, a necessidade de aperfeiçoamento e desenvolvimento dos conhecimentos e competências técnicas dirigidas, prioritariamente, ao combate à criminalidade por via marítima e ao tráfico de estupefacientes, à salvaguarda da vida humana no mar e à defesa e preservação do meio marinho.
+
+A abordagem feita à segurança marítima, através da Lei n.º 13/2007, de 14 de agosto, Lei de Base de Segurança Marítima e de Prevenção contra a Poluição do Mar, sendo estreita quanto aos desafios potenciais, considera apenas o Instituto Marítimo e Portuário de São Tomé e Príncipe, a Guarda Costeira e o Comité Nacional para a Organização Marítima Internacional. No preâmbulo dessa Lei antecipase a necessidade futura de adoção de legislação complementar que abranja todas as áreas de segurança marítima e da prevenção da poluição do mar.
+
+Atualmente, a interligação entre a segurança marítima no que concerne às questões da navegação, o respeito pela soberania e autoridade do Estado, e a governança dos espaços marítimos, é indissociável. Este facto deve-se a um aumento da diversidade e alcance das ameaças que perturbam o domínio marítimo, destacando-se: as ações que desafiam a soberania nacional; os atos violentos com o intuito de alcançar objetivos políticos ou o enriquecimento ilícito; o desrespeito pelo direito interno e internacional; a exploração ilegal de recursos; o transporte ilegal de bens e pessoas e a ocorrência de acidentes, intencionais ou não, com impacto ambiental.
+
+Por outro lado, a Estratégia de Segurança Marítima, cuja implementação aponta no sentido de uma abordagem baseada na cooperação entre todas as entidades e órgãos públicos com responsabilidades no exercício da autoridade marítima, com vista à melhoria da eficácia e operacionalidade de sua atuação conjunta, pressupõe a criação de legislação consentânea com esta nova abordagem, desejavelmente com uma visão global.
+
+Das preocupações e objetivos apontados resulta a necessidade de melhorar a atuação da Administração, relevando-se a urgência em proceder à articulação de todas as entidades com intervenção e responsabilidades no espaço marítimo, entre outras, a Guarda Costeira, as autoridades portuárias, as autoridades policiais e organismos vocacionados para a proteção civil e ambiental.
+
+O presente diploma adere a essa lógica de consolidação dos meios institucionais e organizativos como pilar essencial da autoridade marítima, enquanto poder público a exercer nos espaços marítimos sob soberania ou jurisdição nacional, traduzido na execução dos atos do Estado, de procedimentos administrativos e de registo marítimo, que contribuam para a segurança da navegação, assim como no exercício de fiscalização e de polícia, tendentes ao cumprimento das leis e regulamentos aplicáveis nos referidos espaços marítimos.
+
+Adota-se, assim, um novo conceito de Sistema da Autoridade Marítima (SAM), assumindo carácter de transversalidade, passando a integrar todas as entidades, civis e militares, com responsabilidades no exercício da autoridade marítima. Este novo SAM passará a dispor de meios de coordenação nacional de nível ministerial e de coordenação operacional de alto nível, que potenciam uma nova dinâmica na conjugação de esforços, maximizando resultados no combate ao narcotráfico e à pirataria, na preservação dos recursos naturais, do património cultural subaquático e do ambiente e na proteção de pessoas e bens.
+
+Igualmente importa potenciar as capacidades dos organismos e forças de segurança, por forma a concretizar os objetivos do Governo em matéria de combate à pirataria e ao tráfico ilícito de drogas, designadamente pela partilha de informação, planeamento de ações conjuntas no âmbito da vigilância das costas e espaços marítimos sob jurisdição nacional e celebração de protocolos de cooperação entre
+
+as várias entidades e órgãos que, em razão da matéria e do território, ali detêm responsabilidades.
+
+Por fim, pela adoção do novo conceito de autoridade marítima nacional como parte integrante do SAM, criam-se condições de garantia de uma maior eficácia na utilização dos meios afetos à Guarda Costeira no exercício das atividades anteriormente enumeradas em atuação, singular ou conjunta, com outras entidades ou órgãos.
+
+Nestes Termos, no uso das faculdades conferida pela alínea c) do artigo 111.º da Constituição da República, o Governo decreta o seguinte:
