@@ -1,0 +1,37 @@
+# Preâmbulo
+
+Preâmbulo
+
+É hoje de todos conhecido a premente necessidade, por parte do Estado e das demais instituições constituintes deste, de dar respostas às sucessivas e intermináveis questões sociais que, consequentemente, trazem consigo complexos desafios para a ordem jurídica interna, mormente no que a normas legais vigentes dizem respeito.
+
+A presente reforma tem em vista os grandes princípios que enformam os Estados de Direito Democrático, como é o caso da República Democrática de São Tomé e Príncipe, onde a Liberdade, a transparência, a liberdade de iniciativa privada no sector económico, a garantia de propriedade privada, bem como outros direitos de carácter patrimonial estão consagrados na Lei Fundamental e demais legislação, como sendo direitos fundamentais e basilares, muitos deles constituindo os chamados Direitos, Liberdades e Garantias, aos quais só em ocasiões excepcionais podem ser sustados;
+
+Considerando que o XVI Governo Constitucional tem inscrito na sua agenda de transformação, como uma das matrizes orientadoras, justamente a modernização de toda a Administração Pública, (leia-se, aparelho administrativo), tornando-a, em consequência, adequada, produtiva, ágil, transparente e, no fundo, torná-la apta à própria realidade e às necessidades hodiernas que afectam este sector tão particular.
+
+Tendo ainda em linha de conta que o Governo tem encarado, com grande acuidade e acutilância, a tão aclamada “Governação Electrónica”, “E- Governance”, (na terminação inglesa), aproveitando as faculdades e grande maleabilidade que vêm sendo conferidas pelas denominadas TIC’s, isto é, Tecnologias de Informação e Comunicação, e sendo esta visão partilhada também a nível dos grandes parceiros nacionais e internacionais de apoio ao desenvolvimento, tanto a nível bilateral, (países com os quais o País tem cooperado), como multilateral, (caso de Organizações Internacionais, tanto de carácter regionais, como mundial).
+
+Assim, após um período de reflexão e estudos no seio de uma equipa constituída para o efeito, o Ministério da Justiça, Administração Pública e Direitos Humanos apresenta, quarenta anos depois da República Democrática de São Tomé e Príncipe ter ascendido à comunidade das nações como uma nação independente, as linhas gerais do seu primeiro texto de Código do Registo Predial desde a sua independência em relação ao Estado português.
+
+Com o presente código que pretende substituir, na íntegra, o anterior, aprovado por Decreto-Lei n.º 47611, datado de 28 de Março de 1967 e que vigorou em todo o Império Português. Praticamente a única compilação legislativa verdadeiramente nova e adoptada pelo novo Estado nascente, foi a Constituição da República, aprovada em 1 de Dezembro de 1975, enquanto Lei fundamental, mantendo-se em vigor quase todo o acervo de leis que integravam os códigos coloniais, ressalvando-se a sua não aplicação quanto às disposições que contrariassem o espírito do texto constitucional.
+
+As ligeiras alterações introduzidas ao Código de 1967 foram feitas por leis avulsas, sem revisões de fundo, quer na estrutura sistémica, quer na filosofia, que inspirava o Código, como o foram o artigo 22.º do Decreto-Lei n.º 693/70 de 31 de Dezembro e o artigo 167.º do Regulamento aprovado pelo Decreto nº 694/70 da mesma data. O antigo Código que, como se disse, continuou a vigorar em São Tomé e Príncipe manteve-se também em vigor em Portugal até Julho de 1984, quando foi adoptado o Novo Código de Registo Predial, aprovado por Decreto- Lei n.º 224/84, de 6 de Julho.
+
+Visto que o referido Código não sofreu qualquer revisão significativa e vigora no País até a presente data, o Ministério da Justiça, Administração Pública e Direitos Humanos contou com o contributo de uma Comissão de consultores nacionais e, sendo esta obra humana, não tem a pretensão de ser perfeição acabada quando se sabe serem os homens seres imperfeitos. O seu objectivo principal consiste no facto de colocar nas mãos dos práticos do direito um instrumento de trabalho onde não sejam postos em causa os direitos e garantias dos cidadãos. Assim, a Comissão criada para o efeito, orientou-se, grosso modo, tenho em vista a modernização e adequação do obsoleto código às exigências sociais e económicas actuais, à certeza e segurança do Direito e de maior celeridade aos processos registais, bem como o de maior simplificação procedimental, consentindo, nesta senda, que os cidadãos e empre-
+
+sários que, no fim, são os visados directamente, ganhem mais confiança no sistema registal do País.
+
+Sendo o direito registal são-tomense inspirado no direito registal português e tendo o povo sãotomense sua especificidade e identidade própria, as alterações introduzidas neste último sistema registal e a aprovação de um outro código teriam forçosamente de se reflectir sobre o ordenamento jurídico registal são-tomense, impondo-se a necessidade de elaboração do seu próprio Código de Registo Predial, baseado na defesa de valores em certa medida diferentes dos do anterior, com filosofia que lhe fosse intrínseca e norteado por princípios inovadores inerentes às sociedades modernas e que respondesse às actuais exigências que se colocam ao País.
+
+Foi com este espírito que o Governo São-tomense decidiu elaborar o presente Código, onde para além de se ter adoptado uma arrumação sistémica diferente da anterior e expurgado o diploma dos institutos ou regimes que há várias décadas se tinham transformado em letra morta ou simplesmente não fariam mais sentido estar neste diploma, se consagrou princípios inovadores destinados a dar resposta a nova realidade.
+
+Com vista a possibilitar a concordância com as novas disposições, foi ainda necessário alterar determinados diplomas que com o código são conexos, é o caso do Código do Notariado, aprovado pelo Decreto-Lei n.º 47/619, de 31 de Março de 1967 e o Código do Registo Comercial, aprovado por Decreto-Lei n.º 42/644 e o Regulamento do Registo Comercial, aprovado pelo Decreto n.º 42/645, ambos de 14 de Novembro de 1959, aplicável à República de São Tomé e Príncipe por força da Portaria de extensão n.º 22/139, de 29 de Julho de 1966.
+
+É nestes termos que, tendo ainda em conta o alcance das novas TIC’s, as potencialidades das bases de dados com recurso às ferramentas informáticas e a utilização da internet tanto a nível regional como mundial, se salienta uma série de possibilidades de que o legislador do actual Código do Registo Predial não teve à sua disposição para definir os pressupostos fundamentais em matéria dos registos, entre os quais, o da base real, da legalidade, da inscrição, bem como dos demais que visem a certeza e segurança jurídica da propriedade.
+
+De igual modo, as sucessivas reformas introduzidas no País em matéria da propriedade sobre bens
+
+imóveis e os desafios que surgem em matéria do cadastro predial, impera-se uma profunda alteração do sistema do registo predial, sem descurar os princípios fundamentais que caracterizam o sistema jurídico são-tomense.
+
+Com a aprovação do presente Código, o Estado São-tomense pretende dotar o seu sistema registal de instrumentos mais modernos e céleres e prestar aos cidadãos serviços jurídico-registrais de maior qualidade, o que implicará a necessidade de formação contínua dos magistrados, advogados, oficiais de justiça, solicitadores e dos demais que no seu quotidiano fazem desses diplomas legais os instrumentos de trabalho.
+
+A Assembleia Nacional decreta, nos termos da alínea b) do artigo 97.º da Constituição da República, o seguinte:
