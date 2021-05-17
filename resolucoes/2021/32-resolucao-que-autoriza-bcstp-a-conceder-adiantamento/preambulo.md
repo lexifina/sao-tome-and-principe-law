@@ -1,0 +1,3 @@
+# Preâmbulo
+
+O Conselho de Ministros, reunido na sua 108ª Sessão Ordinária, em 11 de Maio de 2021, analisou a informação/proposta n.º 3/2021 da Direcção do Tesouro, sobre a situação energética que se vem registando nos últimos tempos no país, afectando o normal funcionamento da EMAE em termos de fornecimento regular de energia à população, por falta de manutenção em tempo oportuno dos geradores com impacto nas actividades económicas do país o que torna imprescindível encontrar soluções com vista a aquisição urgente de peças para manutenção dos três grupos de geradores “ABC” da Central de Santo Amaro II e um gerador ABC da Central de São Tomé e, dentro das suas competências, resolve o seguinte:
