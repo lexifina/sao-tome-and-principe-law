@@ -1,24 +1,16 @@
 # Preâmbulo
 
-2.
+2. O Secretário Executivo comunicará ao Comité de Concertação Permanente as propostas de emenda referidas no n.º 1 do presente Artigo, que as submeterá à aprovação do Conselho de Ministros.
 
-O Secretário Executivo comunicará ao Comité de Concertação Permanente as propostas de emenda referidas no n.º 1 do presente Artigo, que as submeterá à aprovação do Conselho de Ministros.
-
-3.
-
-As alterações aos presentes Estatutos entrarão em vigor trinta (30) dias após a notificação ao Depositário, por cada um dos Estados-Membros, da conclusão das formalidades constitucionais necessárias para o efeito.
+3. As alterações aos presentes Estatutos entrarão em vigor trinta (30) dias após a notificação ao Depositário, por cada um dos Estados-Membros, da conclusão das formalidades constitucionais necessárias para o efeito.
 
 Artigo 29.º
 
 Entrada em vigor
 
-1.
+1. Os presentes Estatutos entrarão em vigor, provisoriamente, na data da sua assinatura e, definitivamente, após a conclusão das formalidades constitucionais por todos os Estados-Membros.
 
-Os presentes Estatutos entrarão em vigor, provisoriamente, na data da sua assinatura e, definitivamente, após a conclusão das formalidades constitucionais por todos os Estados-Membros.
-
-2.
-
-Os presentes Estatutos serão adotados por todos os Estados-Membros em conformidade com as suas formalidades constitucionais.
+2. Os presentes Estatutos serão adotados por todos os Estados-Membros em conformidade com as suas formalidades constitucionais.
 
 Artigo 30.º
 
