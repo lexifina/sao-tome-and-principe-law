@@ -1,0 +1,49 @@
+{
+ "country": "ST",
+ "acts": [
+  {
+   "slug": "constituicao",
+   "short": "CRDSTP",
+   "title": "Constituição da República Democrática de São Tomé e Príncipe",
+   "url": "http://www.parlamento.st/Legisl/leg%20Constit/leg_const.htm",
+   "versions": [
+    {
+     "from": "1975-11-05",
+     "units": 51,
+     "source_url": "https://web.archive.org/web/20070205134504id_/http://www.parlamento.st:80/Lei/Assembleia%20Nacional/Lei%20de%2017%20de%20Julho%20de%201975.zip",
+     "sha256": "96f1339dabac65d7cdf283797987a0999c78df6f7e95a31604557ceb1a072364"
+    },
+    {
+     "from": "1980-02-07",
+     "units": 72,
+     "source_url": "https://web.archive.org/web/20070205134756id_/http://www.parlamento.st:80/Lei/Assembleia%20Nacional/L1_80.zip",
+     "sha256": "d6f08ec64e5cab02f1995285f77e528513c207c251bfc91c0cc2f1fe565bd281"
+    },
+    {
+     "from": "1982-12-31",
+     "units": 74,
+     "source_url": "https://web.archive.org/web/20070205135057id_/http://www.parlamento.st:80/Lei/Assembleia%20Nacional/L2_82.zip",
+     "sha256": "b302905f2c0d3c22409edb6df5ae0c2d536c99b6ceb2af5005fa21e086c77fb2"
+    },
+    {
+     "from": "1987-12-31",
+     "units": 74,
+     "source_url": "https://web.archive.org/web/20070205134437id_/http://www.parlamento.st:80/Lei/Assembleia%20Nacional/L1_87.zip",
+     "sha256": "fec34506ff24f7c678a06b36cfcd5fb195bc412dda4123e4334e0b0a8b404b89"
+    },
+    {
+     "from": "1990-09-20",
+     "units": 130,
+     "source_url": "https://web.archive.org/web/20070205134933id_/http://www.parlamento.st:80/Lei/Assembleia%20Nacional/L7_90Const.zip",
+     "sha256": "c871cfb1f435c3ee1c2ae4580074eb22db3aec7908b61481df335a2c8027999f"
+    },
+    {
+     "from": "2003-02-28",
+     "units": 162,
+     "source_url": "https://web.archive.org/web/20070205134301id_/http://www.parlamento.st:80/Lei/Assembleia%20Nacional/L1_03.zip",
+     "sha256": "6ebe2b8485eead960ceed8de85e30fee1a4d0dbecfdebe3dd4700d114d4b1fab"
+    }
+   ]
+  }
+ ]
+}
