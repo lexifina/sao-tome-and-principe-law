@@ -227,7 +227,7 @@
       "art-020": {
        "label": "Artigo 20.º",
        "kind": "art",
-       "text": "# Artigo 20.º\n1.Até ulterior definição da composição e dos critérios de eleição dos membros da Assembleia Popular esta será constituída pelos seguintes membros:\na) Os Membros do Bureau Político do MLSTP;\nb) Os Membros do Governo;\nc) 13 Representantes dos Comité de Zona;\nd) 2 Representantes da Organização das Mulheres;\ne) 2 Representantes da Organização da Juventude;\nf) 5 Cidadãos idóneos.\n2. Cabe ao MLSTP a responsabilidade de escolha dos candidatos.\nAssembleia Popular\n"
+       "text": "# Artigo 20.º\n1.Até ulterior definição da composição e dos critérios de eleição dos membros da Assembleia Popular esta será constituída pelos seguintes membros:\na) Os Membros do Bureau Político do MLSTP;\nb) Os Membros do Governo;\nc) 13 Representantes dos Comité de Zona;\nd) 2 Representantes da Organização das Mulheres;\ne) 2 Representantes da Organização da Juventude;\nf) 5 Cidadãos idóneos.\n2. Cabe ao MLSTP a responsabilidade de escolha dos candidatos.\n"
       },
       "art-021": {
        "label": "Artigo 21.º",
@@ -272,7 +272,7 @@
       "art-029": {
        "label": "Artigo 29.º",
        "kind": "art",
-       "text": "# Artigo 29.º\nA Comissão Permanente da Assembleia Popular é presidida pelo Presidente da Assembleia Popular.\nCHEFE DO ESTADO\n"
+       "text": "# Artigo 29.º\nA Comissão Permanente da Assembleia Popular é presidida pelo Presidente da Assembleia Popular.\n"
       },
       "art-030": {
        "label": "Artigo 30.º",
@@ -297,7 +297,7 @@
       "art-034": {
        "label": "Artigo 34.º",
        "kind": "art",
-       "text": "# Artigo 34.º\n1. Em caso de morte, incapacidade permanente ou renúncia do Presidente da República, as suas funções serão imediatamente assumidas pelo Presidente da Assembleia Popular que convocará uma sessão extraordinária no prazo de sete dias para eleição do novo Presidente da República proposto pelo MLSTP.\n2. O Presidente da República só poderá ausentar-se do território nacional com o assentimento da Assembleia Popular.\n3. O Presidente da República decide sobre quem o representará em caso de impedimento ou ausência, ou na realização de certas tarefas específicas.\nGOVERNO\n"
+       "text": "# Artigo 34.º\n1. Em caso de morte, incapacidade permanente ou renúncia do Presidente da República, as suas funções serão imediatamente assumidas pelo Presidente da Assembleia Popular que convocará uma sessão extraordinária no prazo de sete dias para eleição do novo Presidente da República proposto pelo MLSTP.\n2. O Presidente da República só poderá ausentar-se do território nacional com o assentimento da Assembleia Popular.\n3. O Presidente da República decide sobre quem o representará em caso de impedimento ou ausência, ou na realização de certas tarefas específicas.\n"
       },
       "art-035": {
        "label": "Artigo 35.º",
@@ -317,7 +317,7 @@
       "art-038": {
        "label": "Artigo 38.º",
        "kind": "art",
-       "text": "# Artigo 38.º\n1. O Governo é responsável perante a Assembleia Popular através do Presidente da República.\n2. Os Ministros são responsáveis perante o Presidente da República.\nJUSTIÇA\n"
+       "text": "# Artigo 38.º\n1. O Governo é responsável perante a Assembleia Popular através do Presidente da República.\n2. Os Ministros são responsáveis perante o Presidente da República.\n"
       },
       "art-039": {
        "label": "Artigo 39.º",
@@ -377,7 +377,7 @@
       "estrutura": {
        "label": "Estrutura (partes, títulos, capítulos, secções)",
        "kind": "heading",
-       "text": "CAPÍTULO I – Dos fundamentos e objectivos [Artigo 1.º]\nCAPÍTULO II – Dos direitos, liberdades e deveres fundamentais do cidadão [Artigo 7.º]\nCAPÍTULO III – Da organização do poder do Estado [Artigo 19.º]\nCAPÍTULO IV – Da Revisão Constitucional [Artigo 46.º]\nCAPÍTULO V – Disposições gerais transitórias [Artigo 48.º]\n"
+       "text": "CAPÍTULO I – Dos fundamentos e objectivos [Artigo 1.º]\nCAPÍTULO II – Dos direitos, liberdades e deveres fundamentais do cidadão [Artigo 7.º]\nCAPÍTULO III – Da organização do poder do Estado [Artigo 19.º]\nAssembleia Popular [Artigo 21.º]\nCHEFE DO ESTADO [Artigo 30.º]\nGOVERNO [Artigo 35.º]\nJUSTIÇA [Artigo 39.º]\nCAPÍTULO IV – Da Revisão Constitucional [Artigo 46.º]\nCAPÍTULO V – Disposições gerais transitórias [Artigo 48.º]\n"
       }
      },
      "credits": {
@@ -740,7 +740,7 @@
       "art-040": {
        "label": "Artigo 40.º",
        "kind": "art",
-       "text": "# Artigo 40.º\n1. A Comissão Permanente é responsável perante a Assembleia Popular Nacional, submetendo os seus actos legislativos à ratificação da mesma.\n2. A Comissão Permanente da Assembleia Popular Nacional é presidida pelo Presidente da Assembleia Popular Nacional.\nCHEFE DE ESTADO\n"
+       "text": "# Artigo 40.º\n1. A Comissão Permanente é responsável perante a Assembleia Popular Nacional, submetendo os seus actos legislativos à ratificação da mesma.\n2. A Comissão Permanente da Assembleia Popular Nacional é presidida pelo Presidente da Assembleia Popular Nacional.\n"
       },
       "art-041": {
        "label": "Artigo 41.º",
@@ -765,7 +765,7 @@
       "art-045": {
        "label": "Artigo 45.º",
        "kind": "art",
-       "text": "# Artigo 45.º\n1. O Presidente da República só poderá ausentar-se do território nacional com o assentimento da Assembleia Popular Nacional.\n2. O Presidente da República decide sobre quem o representará em caso de impedimento ou ausência, ou na realização de certas tarefas específicas.\n3. Em caso de morte, incapacidade permanente ou renúncia do Presidente da República, as suas funções serão imediatamente assumidas pelo Presidente da Assembleia Popular Nacional, que convocará uma sessão extraordinária no prazo de sete dias para a eleição do novo Presidente da República.\nGOVERNO\n"
+       "text": "# Artigo 45.º\n1. O Presidente da República só poderá ausentar-se do território nacional com o assentimento da Assembleia Popular Nacional.\n2. O Presidente da República decide sobre quem o representará em caso de impedimento ou ausência, ou na realização de certas tarefas específicas.\n3. Em caso de morte, incapacidade permanente ou renúncia do Presidente da República, as suas funções serão imediatamente assumidas pelo Presidente da Assembleia Popular Nacional, que convocará uma sessão extraordinária no prazo de sete dias para a eleição do novo Presidente da República.\n"
       },
       "art-046": {
        "label": "Artigo 46.º",
@@ -830,7 +830,7 @@
       "art-058": {
        "label": "Artigo 58.º",
        "kind": "art",
-       "text": "# Artigo 58.º\n1. A Comissão Permanente Distrital assume as funções da Assembleia nos períodos compreendidos entre as sessões.\n2. As decisões adoptadas pela Comissão Permanente Distrital serão ratificadas pela Assembleia correspondente na primeira sessão depois da sua adopção.\n3. A Comissão Permanente Distrital é responsável perante a Assembleia Popular Distrital pela sua actuação.\nJUSTIÇA\n"
+       "text": "# Artigo 58.º\n1. A Comissão Permanente Distrital assume as funções da Assembleia nos períodos compreendidos entre as sessões.\n2. As decisões adoptadas pela Comissão Permanente Distrital serão ratificadas pela Assembleia correspondente na primeira sessão depois da sua adopção.\n3. A Comissão Permanente Distrital é responsável perante a Assembleia Popular Distrital pela sua actuação.\n"
       },
       "art-059": {
        "label": "Artigo 59.º",
@@ -895,7 +895,7 @@
       "estrutura": {
        "label": "Estrutura (partes, títulos, capítulos, secções)",
        "kind": "heading",
-       "text": "CAPÍTULO I – Dos fundamentos e objectivos [Artigo 1.º]\nCAPÍTULO II – Dos Direitos, Liberdades e Deveres Fundamentais do Cidadão [Artigo 13.º]\nCAPÍTULO III – Da organização do poder do Estado [Artigo 27.º]\nCAPÍTULO IV – Da Iniciativa Legislativa [Artigo 66.º]\nCAPÍTULO V – Da Reforma Constitucional [Artigo 67.º]\nCAPÍTULO VI – Disposições Gerais e Transitórias [Artigo 69.º]\n"
+       "text": "CAPÍTULO I – Dos fundamentos e objectivos [Artigo 1.º]\nCAPÍTULO II – Dos Direitos, Liberdades e Deveres Fundamentais do Cidadão [Artigo 13.º]\nCAPÍTULO III – Da organização do poder do Estado [Artigo 27.º]\nCHEFE DE ESTADO [Artigo 41.º]\nGOVERNO [Artigo 46.º]\nJUSTIÇA [Artigo 59.º]\nCAPÍTULO IV – Da Iniciativa Legislativa [Artigo 66.º]\nCAPÍTULO V – Da Reforma Constitucional [Artigo 67.º]\nCAPÍTULO VI – Disposições Gerais e Transitórias [Artigo 69.º]\n"
       },
       "preambulo": {
        "label": "Preâmbulo",
@@ -1246,7 +1246,7 @@
       "art-027": {
        "label": "Artigo 27.º",
        "kind": "art",
-       "text": "# Artigo 27.º\n1. Os órgãos do Estado completam-se, funcionam e desenvolvem a sua actividade na base dos princípios da democracia revolucionária Popular, a unidade do Poder e o centralismo democrático.\n2. As massas populares controlam as actividades dos órgãos estatais, dos deputados, dos delegados e demais autoridades eleitas por eles. Os eleitos têm o dever de prestar contas da sua actuação aos seus eleitores e estes têm direito a revoga-los quando não justificam a confiança neles depositada.\n3. Cada órgão estatal desenvolve amplamente, dentro do quadro da sua competência, a iniciativa conducente ao aproveitamento dos recursos e possibilidades locais e a incorporação das organizações de massas à sua actividade.\n4. As disposições dos órgãos estatais superiores são obrigatórias para os inferiores. Os órgãos estatais inferiores respondem perante os superiores e prestam-lhes conta da sua gestão.\n5. A liberdade de discussão da crítica e autocrítica e a subordinação da minoria à maioria, reinam em todos os órgãos estatais associados.\nASSEMBLEIA POPULAR NACIONAL\n"
+       "text": "# Artigo 27.º\n1. Os órgãos do Estado completam-se, funcionam e desenvolvem a sua actividade na base dos princípios da democracia revolucionária Popular, a unidade do Poder e o centralismo democrático.\n2. As massas populares controlam as actividades dos órgãos estatais, dos deputados, dos delegados e demais autoridades eleitas por eles. Os eleitos têm o dever de prestar contas da sua actuação aos seus eleitores e estes têm direito a revoga-los quando não justificam a confiança neles depositada.\n3. Cada órgão estatal desenvolve amplamente, dentro do quadro da sua competência, a iniciativa conducente ao aproveitamento dos recursos e possibilidades locais e a incorporação das organizações de massas à sua actividade.\n4. As disposições dos órgãos estatais superiores são obrigatórias para os inferiores. Os órgãos estatais inferiores respondem perante os superiores e prestam-lhes conta da sua gestão.\n5. A liberdade de discussão da crítica e autocrítica e a subordinação da minoria à maioria, reinam em todos os órgãos estatais associados.\n"
       },
       "art-028": {
        "label": "Artigo 28.º",
@@ -1301,7 +1301,7 @@
       "art-038": {
        "label": "Artigo 38.º",
        "kind": "art",
-       "text": "# Artigo 38.º\nAs leis e resoluções da Assembleia Popular Nacional, salvo quando se referem à reformada constituição, são adoptadas por maiorias simples.\nCOMISSÃO PERMANENTE DA ASSEMBLEIA POPULAR NACIOAL\n"
+       "text": "# Artigo 38.º\nAs leis e resoluções da Assembleia Popular Nacional, salvo quando se referem à reformada constituição, são adoptadas por maiorias simples.\nCOMISSÃO PERMANENTE DA ASSEMBLEIA\n"
       },
       "art-039": {
        "label": "Artigo 39.º",
@@ -1316,7 +1316,7 @@
       "art-041": {
        "label": "Artigo 41.º",
        "kind": "art",
-       "text": "# Artigo 41.º\n1. A comissão Permanente é responsável perante a Assembleia Popular Nacional submetendo os actos legislativos a ratificação da mesma.\n2. A Comissão Permanente da Assembleia Popular Nacional é presidida pelo Presidente da Assembleia Popular Nacional.\nCHEFE DE ESTADO\n"
+       "text": "# Artigo 41.º\n1. A comissão Permanente é responsável perante a Assembleia Popular Nacional submetendo os actos legislativos a ratificação da mesma.\n2. A Comissão Permanente da Assembleia Popular Nacional é presidida pelo Presidente da Assembleia Popular Nacional.\n"
       },
       "art-042": {
        "label": "Artigo 42.º",
@@ -1341,7 +1341,7 @@
       "art-046": {
        "label": "Artigo 46.º",
        "kind": "art",
-       "text": "# Artigo 46.º\n1. O Presidente da República decide sobre quem o representará em caso de impedimento ou ausência, ou na realização de certas tarefas específicas.\n2. Em caso de morte, incapacidade permanente ou renuncia do Presidente da República, as suas funções serão imediatamente assumidas pelo Presidente da Assembleia Popular Nacional, que convocará uma sessão extraordinária no prazo de sete dias para a eleição do novo Presidente da República.\nGoverno\n"
+       "text": "# Artigo 46.º\n1. O Presidente da República decide sobre quem o representará em caso de impedimento ou ausência, ou na realização de certas tarefas específicas.\n2. Em caso de morte, incapacidade permanente ou renuncia do Presidente da República, as suas funções serão imediatamente assumidas pelo Presidente da Assembleia Popular Nacional, que convocará uma sessão extraordinária no prazo de sete dias para a eleição do novo Presidente da República.\n"
       },
       "art-047": {
        "label": "Artigo 47.º",
@@ -1366,7 +1366,7 @@
       "art-051": {
        "label": "Artigo 51.º",
        "kind": "art",
-       "text": "# Artigo 51.º\n1. Os chefes dos Organismos da administração central de Estado dirigem, coordenam e controlam a actividade dos respectivos organismos governamentais respondem pessoalmente perante o Chefe do Governo;\n2. O Conselho de Ministros é responsável perante a assembleia Popular Nacional e presta-lhe contas das suas actividades.\nAssembleia Populares Distritais\n"
+       "text": "# Artigo 51.º\n1. Os chefes dos Organismos da administração central de Estado dirigem, coordenam e controlam a actividade dos respectivos organismos governamentais respondem pessoalmente perante o Chefe do Governo;\n2. O Conselho de Ministros é responsável perante a assembleia Popular Nacional e presta-lhe contas das suas actividades.\n"
       },
       "art-052": {
        "label": "Artigo 52.º",
@@ -1411,7 +1411,7 @@
       "art-060": {
        "label": "Artigo 60.º",
        "kind": "art",
-       "text": "# Artigo 60.º\n1. A Comissão Permanente Distrital assume as funções da Assembleia nos períodos compreendidos entre as sessões.\n2. As decisões adoptadas pela comissão permanente Distrital serão ratificadas pela Assembleia correspondente na primeira sessão depois da sua adopção.\n3. A Comissão Permanente Distrital é responsável perante a Assembleia Popular Distrital pela sua actuação.\nJUSTIÇA\n"
+       "text": "# Artigo 60.º\n1. A Comissão Permanente Distrital assume as funções da Assembleia nos períodos compreendidos entre as sessões.\n2. As decisões adoptadas pela comissão permanente Distrital serão ratificadas pela Assembleia correspondente na primeira sessão depois da sua adopção.\n3. A Comissão Permanente Distrital é responsável perante a Assembleia Popular Distrital pela sua actuação.\n"
       },
       "art-061": {
        "label": "Artigo 61.º",
@@ -1476,7 +1476,7 @@
       "estrutura": {
        "label": "Estrutura (partes, títulos, capítulos, secções)",
        "kind": "heading",
-       "text": "CAPÍTULO I – Dos fundamentos e objectivos [Artigo 1.º]\nCAPITULO II – Dos direitos, liberdades e deveres Fundamentares do cidadão [Artigo 13.º]\nCAPÍTULO III – Da direcção do poder do Estado [Artigo 27.º]\nCAPITULO IV – Da Iniciativa Legislativa [Artigo 68.º]\nCAPITULO V – Da Reforma Constitucional [Artigo 69.º]\nCAPITULO VI – Disposições Gerais e Transitórias [Artigo 71.º]\n"
+       "text": "CAPÍTULO I – Dos fundamentos e objectivos [Artigo 1.º]\nCAPITULO II – Dos direitos, liberdades e deveres Fundamentares do cidadão [Artigo 13.º]\nCAPÍTULO III – Da direcção do poder do Estado [Artigo 27.º]\nASSEMBLEIA POPULAR NACIONAL [Artigo 28.º]\nPOPULAR NACIOAL [Artigo 39.º]\nCHEFE DE ESTADO [Artigo 42.º]\nGoverno [Artigo 47.º]\nAssembleia Populares Distritais [Artigo 52.º]\nJUSTIÇA [Artigo 61.º]\nCAPITULO IV – Da Iniciativa Legislativa [Artigo 68.º]\nCAPITULO V – Da Reforma Constitucional [Artigo 69.º]\nCAPITULO VI – Disposições Gerais e Transitórias [Artigo 71.º]\n"
       },
       "preambulo": {
        "label": "Preâmbulo",
@@ -2314,7 +2314,7 @@
       "art-112": {
        "label": "Artigo 112.º",
        "kind": "art",
-       "text": "# Artigo 112.º ((Ministério Público))\n1. O Ministério Público fiscaliza a legalidade, representa nos tribunais, o interesse público e social e é o titular da acção penal.\n2. O Ministério Público organiza-se como uma estrutura hierarquizada sob a direcção do Procurador - Geral da República.\nTítulos VI (Administração Pública)\n"
+       "text": "# Artigo 112.º ((Ministério Público))\n1. O Ministério Público fiscaliza a legalidade, representa nos tribunais, o interesse público e social e é o titular da acção penal.\n2. O Ministério Público organiza-se como uma estrutura hierarquizada sob a direcção do Procurador - Geral da República.\n"
       },
       "art-113": {
        "label": "Artigo 113.º",
@@ -2399,7 +2399,7 @@
       "estrutura": {
        "label": "Estrutura (partes, títulos, capítulos, secções)",
        "kind": "heading",
-       "text": "PARTE I – Fundamentos e Objectivos [Artigo 1.º]\nPARTE II – Direitos Fundamentais e Ordem Social – Título I – Princípios Gerais [Artigo 14.º]\nTítulo II – Direitos Pessoais [Artigo 21.º]\nTítulo III – Direitos sociais e ordem económica, social e cultural [Artigo 41.º]\nTítulo IV – Direitos e deveres civico-políticos [Artigo 56.º]\nPARTE III – Organização do poder político – Título I – Princípios gerais [Artigo 65.º]\nTítulo II – PRESIDENTE DA REPÚBLICA [Artigo 73.º]\nTítulo III – Assembleia Nacional [Artigo 81.º]\nTítulo IV – GOVERNO [Artigo 96.º]\nTítulo V – OO TRIBUNAIS [Artigo 103.º]\nTítulo VII – Órgão do Poder Local [Artigo 114.º]\nPARTE IV – Revisão Constitucional [Artigo 122.º]\n"
+       "text": "PARTE I – Fundamentos e Objectivos [Artigo 1.º]\nPARTE II – Direitos Fundamentais e Ordem Social – Título I – Princípios Gerais [Artigo 14.º]\nTítulo II – Direitos Pessoais [Artigo 21.º]\nTítulo III – Direitos sociais e ordem económica, social e cultural [Artigo 41.º]\nTítulo IV – Direitos e deveres civico-políticos [Artigo 56.º]\nPARTE III – Organização do poder político – Título I – Princípios gerais [Artigo 65.º]\nTítulo II – PRESIDENTE DA REPÚBLICA [Artigo 73.º]\nTítulo III – Assembleia Nacional [Artigo 81.º]\nTítulo IV – GOVERNO [Artigo 96.º]\nTítulo V – OO TRIBUNAIS [Artigo 103.º]\nTítulos VI (Administração Pública) [Artigo 113.º]\nTítulo VII – Órgão do Poder Local [Artigo 114.º]\nPARTE IV – Revisão Constitucional [Artigo 122.º]\n"
       },
       "preambulo": {
        "label": "Preâmbulo",
