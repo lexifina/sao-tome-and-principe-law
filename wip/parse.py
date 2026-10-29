@@ -48,7 +48,7 @@ def norm(s: str) -> str:
 HEAD_RE = re.compile(r'^\s*Artigo\s*(\d+)\s*\.?\s*º?\s*\.?\s*$')
 INLINE_HEAD_RE = re.compile(r'^\s*Art\.\s*(\d+)\s*\.?\s*º\s*[-–]\s*(.*)$')
 STRUCT_RE = re.compile(r'^\s*(PARTE|T[ÍI]TULO|CAP[ÍI]TULO|SEC[ÇC][ÃA]O|Sec[çc][ãa]o|Cap[íi]tulo|T[íi]tulo)\b')
-ITEM_RE = re.compile(r'^(\d+\s*[.)]\s*\S|\d+\s*[-–]\s|[a-z]\s?\)\s?\S|[a-z]\s?\)$)')
+ITEM_RE = re.compile(r'^(\d+\s*\)\s*\S|\d+\s*\.(?!\s*º)\s*\S|\d+\s*[-–]\s|[a-z]\s?\)\s?\S|[a-z]\s?\)$)')
 PAGE_RE = re.compile(r'^\s*\d+\s*$')
 
 
@@ -89,7 +89,7 @@ def split_constitution(text: str, start_re: str, end_re: str, sig_re: str, epigr
             if cur is not None:
                 sub = []
                 while cur['lines'] and (not cur['lines'][-1].strip() or (
-                        indent(cur['lines'][-1]) >= 25 and not ITEM_RE.match(norm(cur['lines'][-1]))
+                        indent(cur['lines'][-1]) >= 15 and not ITEM_RE.match(norm(cur['lines'][-1]))
                         and not re.search(r'[.;:,!?»"]$', norm(cur['lines'][-1])))):
                     t = norm(cur['lines'].pop())
                     if t:
