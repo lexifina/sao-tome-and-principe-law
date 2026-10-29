@@ -85,6 +85,17 @@ def split_constitution(text: str, start_re: str, end_re: str, sig_re: str, epigr
         mi = INLINE_HEAD_RE.match(l) if not m else None
         if m or mi:
             num = int((m or mi).group(1))
+            # centred unnumbered subheadings ("GOVERNO", "Assembleia Popular") just before an article header
+            if cur is not None:
+                sub = []
+                while cur['lines'] and (not cur['lines'][-1].strip() or (
+                        indent(cur['lines'][-1]) >= 25 and not ITEM_RE.match(norm(cur['lines'][-1]))
+                        and not re.search(r'[.;:,!?»"]$', norm(cur['lines'][-1])))):
+                    t = norm(cur['lines'].pop())
+                    if t:
+                        sub.insert(0, t)
+                if sub:
+                    heading.append(' '.join(sub))
             if heading:
                 outline.append((' – '.join(heading), num))
                 heading = []
