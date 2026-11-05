@@ -31,3 +31,7 @@ Every version is the full official text of that law, taken from the PDFs the Ass
 - **Copyright.** Official legislative texts are generally outside copyright in Portuguese-model law; we could not confirm São Tomé's Decree-Law 02/2017 on the point. See `LICENSE`.
 
 This repository is not legal advice. For anything that matters, read the original.
+
+## Ordinary legislation coverage
+
+The DGRN catalogue's nine examined editions of the emoluments table, Road Code, Labour Code, Judicial Police organic law, Land Registration Code, Commercial Registration Code, Notarial Code, Family Code and Microfinance regime are not included. Their source text and original commencement dates were checked, but the latest amendments and the applicable reuse basis remain unconfirmed. The repository continues to contain only the constitutional history described above; the DGRN editions are not represented as current text.
