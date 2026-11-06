@@ -1,5 +1,7 @@
 # São Tomé and Príncipe: law history in git
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is São Tomé and Príncipe's national law, which global-law reads at `sao-tome-and-principe/national/acts/`.
+
 The Constitution of São Tomé and Príncipe as a git history: one file per article, one commit per constitutional law on the day it took effect, and the law that made each change as the commit's author. `git blame` names the law behind every article; `git log` lists every change to an article; picking a date gives the text in force that day.
 
 It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law), which places it at `st/`. The official language is **Portuguese**; the texts here are in Portuguese and nothing is translated.
