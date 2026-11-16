@@ -62,6 +62,7 @@ A primeira versão é atribuída à própria Constituição Política de 1975, e
 - Os textos são lidos da camada de texto dos PDF da Assembleia Nacional, não de digitalizações; os erros ortográficos e as gralhas de dactilografia mantêm-se tal como impressos.
 - O texto de 2003 foi comparado palavra a palavra com a própria cópia do Governo. Cerca de 90 pontos diferem (grafias como *juizes*/*juízes* e algumas gralhas evidentes numa ou noutra cópia); o texto da Assembleia Nacional mantém-se tal como publicado, sem correções. [`REPRODUCE.md`](REPRODUCE.md) lista todas as decisões tomadas manualmente.
 - A história só cresce por acréscimo: sem commits de fusão (merge), sem nenhum commit com data futura.
+- [vulnerabilities/](vulnerabilities/): possíveis erros de redação neste direito, encontrados pelos detetores do global-law e verificados à mão. Ainda não executado.
 
 ## O que não mostra
 
@@ -85,6 +86,10 @@ Veja [`LICENSE`](LICENSE). As leis e os outros textos legislativos oficiais est�
 Nenhum modelo de IA escreveu, traduziu ou corrigiu texto jurídico, e nenhum é executado quando a história é construída; os scripts foram escritos por um modelo de IA (veja [`REPRODUCE.md`](REPRODUCE.md)).
 
 Esta é uma tradução da versão inglesa ([README.en.md](README.en.md)); em caso de divergência, prevalece a versão inglesa.
+
+## Visualizações
+
+- [visualisations/](visualisations/): gráficos feitos a partir deste repositório. Ainda não feitos.
 
 ## Mais informação
 
