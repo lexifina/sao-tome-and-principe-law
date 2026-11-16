@@ -62,6 +62,7 @@ The first version is credited to the Constituição Política de 1975 itself, an
 - The texts are read from the text layer of the Assembleia Nacional's PDFs, not from scans; spelling and typing slips are kept as printed.
 - The 2003 text was compared word by word with the government's own copy. About 90 places differ (spellings such as *juizes*/*juízes*, and a few evident typing slips in one copy or the other); the Assembleia Nacional's text is kept as published, not corrected. [`REPRODUCE.md`](REPRODUCE.md) lists every decision made by hand.
 - History is append-only: no merge commits, no commit dated in the future.
+- [vulnerabilities/](vulnerabilities/README.en.md): possible drafting mistakes in this law, found by global-law's detectors and checked by hand. Not run yet.
 
 ## What it does not show
 
@@ -83,6 +84,10 @@ The first version is credited to the Constituição Política de 1975 itself, an
 See [`LICENSE`](LICENSE). Laws and other official legislative texts are outside copyright under the usual rule of Portuguese-model copyright codes; no explicit statement of the position was found in São Tomé's own Decree-Law 02/2017, so this is an assumption, not a licence. The source site states no licence terms.
 
 No AI model wrote, translated or corrected legal text, and none runs when the history is built; the scripts were written by an AI model (see [`REPRODUCE.md`](REPRODUCE.md)).
+
+## Visualisations
+
+- [visualisations/](visualisations/README.en.md): charts drawn from this repository. Not drawn yet.
 
 ## More
 
