@@ -1,7 +1,7 @@
 # Decreto n.º 2/2007
 
 - Publicação: Diário da República n.º 38, de 2007-08-28 (I Série)
-- Data dos commits: dia da publicação no Diário da República (a entrada em vigor não foi apurada).
+- Entrada em vigor: 2007-08-28 («entra imediatamente em vigor com efeito retroactivo a contar do mês de Janeiro do ano em curso.»). O commit do texto tem a data da publicação; a entrada em vigor foi apurada depois.
 - Fonte: <https://faolex.fao.org/docs/pdf/sao83957.pdf> (FAOLEX; texto do próprio PDF oficial, sem OCR)
 
 | Ficheiro | Disposição |

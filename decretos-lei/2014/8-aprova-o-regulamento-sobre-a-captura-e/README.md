@@ -1,7 +1,7 @@
 # Decreto-Lei n.º 8/2014 — Aprova o Regulamento sobre a Captura e Comercialização das Tartarugas Marinhas e seus produtos
 
 - Publicação: Diário da República n.º 33, de 2014-04-28 (I Série)
-- Data dos commits: dia da publicação no Diário da República (a entrada em vigor não foi apurada).
+- Entrada em vigor: 2014-04-28 («entra imediatamente em vigor.»). O commit do texto tem a data da publicação; a entrada em vigor foi apurada depois.
 - Fonte: <https://faolex.fao.org/docs/pdf/sao186427.pdf> (FAOLEX; texto do próprio PDF oficial, sem OCR)
 
 | Ficheiro | Disposição |

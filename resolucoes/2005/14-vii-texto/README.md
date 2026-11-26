@@ -1,7 +1,7 @@
 # Resolução n.º 14/VII/05
 
 - Publicação: Diário da República n.º 13, de 2005-07-18 (I Série)
-- Data dos commits: dia da publicação no Diário da República (a entrada em vigor não foi apurada).
+- Entrada em vigor: 2005-07-18 («entra imediatamente em vigor.»). O commit do texto tem a data da publicação; a entrada em vigor foi apurada depois.
 - Fonte: <https://faolex.fao.org/docs/pdf/sao83955.pdf> (FAOLEX; texto do próprio PDF oficial, sem OCR)
 
 | Ficheiro | Disposição |

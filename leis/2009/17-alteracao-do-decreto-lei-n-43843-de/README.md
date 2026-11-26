@@ -1,7 +1,7 @@
 # Lei n.º 17/2009 — Alteração do Decreto-Lei n.º 43843, de 5 de Agosto de 1961, que regula as Sociedades por Quotas
 
 - Publicação: Diário da República n.º 90, de 2009-12-31 (I Série)
-- Data dos commits: dia da publicação no Diário da República (a entrada em vigor não foi apurada).
+- Entrada em vigor: 2009-12-31 («entra em vigor a partir da data da sua publicação.»). O commit do texto tem a data da publicação; a entrada em vigor foi apurada depois.
 - Fonte: <https://dgrn.gov.st/leis/Lei/Altera_Lei_Socieades_quotas.pdf> (DGRN; texto do próprio PDF oficial, sem OCR)
 
 | Ficheiro | Disposição |

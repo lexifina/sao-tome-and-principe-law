@@ -1,7 +1,7 @@
 # Resolução n.º 53/XI/2019 — Convenção da União Africana sobre a Prevenção e o Combate à Corrupção
 
 - Publicação: Diário da República n.º 65, de 2019-10-23 (I Série)
-- Data dos commits: dia da publicação no Diário da República (a entrada em vigor não foi apurada).
+- Entrada em vigor: 2019-10-23 («entra imediatamente em vigor.»). O commit do texto tem a data da publicação; a entrada em vigor foi apurada depois.
 - Fonte: <https://faolex.fao.org/docs/pdf/sao202673.pdf> (FAOLEX; texto do próprio PDF oficial, sem OCR)
 
 | Ficheiro | Disposição |

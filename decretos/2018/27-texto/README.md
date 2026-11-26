@@ -1,7 +1,7 @@
 # Decreto n.º 27/2018
 
 - Publicação: Diário da República n.º 174, de 2018-11-27 (I Série)
-- Data dos commits: dia da publicação no Diário da República (a entrada em vigor não foi apurada).
+- Entrada em vigor: 2018-11-27 («entra em vigor na data da sua publicação.»). O commit do texto tem a data da publicação; a entrada em vigor foi apurada depois.
 - Fonte: <https://faolex.fao.org/docs/pdf/sao182967.pdf> (FAOLEX; texto do próprio PDF oficial, sem OCR)
 
 | Ficheiro | Disposição |

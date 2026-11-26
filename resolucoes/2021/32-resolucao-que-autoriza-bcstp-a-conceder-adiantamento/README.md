@@ -1,7 +1,7 @@
 # Resolução n.º 32/2021 — Resolução que autoriza BCSTP a conceder adiantamento ao Tesouro Público o montante de Euro 2. 206.451,13 (dois milhões, duzentos e seis mil, quatrocentos e cinquenta e um euro e treze cêntimos)
 
 - Publicação: Diário da República n.º 40, de 2021-05-17 (I Série)
-- Data dos commits: dia da publicação no Diário da República (a entrada em vigor não foi apurada).
+- Entrada em vigor: 2021-05-17 («entra imediatamente em vigor.»). O commit do texto tem a data da publicação; a entrada em vigor foi apurada depois.
 - Fonte: <https://faolex.fao.org/docs/pdf/sao204936.pdf> (FAOLEX; texto do próprio PDF oficial, sem OCR)
 
 | Ficheiro | Disposição |

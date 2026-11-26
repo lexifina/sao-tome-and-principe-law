@@ -1,7 +1,7 @@
 # Decreto n.º 33/2019 — Regulamento Interno para Informatização do
 
 - Publicação: Diário da República n.º 72, de 2019-11-18 (I Série)
-- Data dos commits: dia da publicação no Diário da República (a entrada em vigor não foi apurada).
+- Entrada em vigor: 2019-11-18 («entra imediatamente em vigor.»). O commit do texto tem a data da publicação; a entrada em vigor foi apurada depois.
 - Fonte: <https://dgrn.gov.st/leis/Lei/Dr_2019_n_72_Regulamento_Interno_SIRP.pdf> (DGRN; texto do próprio PDF oficial, sem OCR)
 
 | Ficheiro | Disposição |

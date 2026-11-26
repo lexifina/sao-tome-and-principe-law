@@ -1,7 +1,7 @@
 # Decreto n.º 52/2013 — Aprova a Orgânica do Ministério de Agricultura, Pescas e Desenvolvimento Rural
 
 - Publicação: Diário da República n.º 141, de 2013-10-18 (I Série)
-- Data dos commits: dia da publicação no Diário da República (a entrada em vigor não foi apurada).
+- Entrada em vigor: 2013-10-18 («entra imediatamente em vigor e produz efeitos a partir de 12 de Dezembro de 2012.»). O commit do texto tem a data da publicação; a entrada em vigor foi apurada depois.
 - Fonte: <https://faolex.fao.org/docs/pdf/sao130812.pdf> (FAOLEX; texto do próprio PDF oficial, sem OCR)
 
 | Ficheiro | Disposição |
