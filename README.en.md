@@ -11,7 +11,7 @@ The law of São Tomé and Príncipe as a git history: one file per article, one 
 
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is São Tomé and Príncipe's national law, which global-law reads at `sao-tome-and-principe/national/acts/`.
 
-**What is in it now:** the Constitution (Constituição da República Democrática de São Tomé e Príncipe) in six versions: as approved in 1975, and as revised by Lei n.º 1/80, Lei n.º 2/82, Lei n.º 1/87, Lei n.º 7/90 and Lei n.º 1/2003, whose text has a preamble and 160 articles. And 71 acts published in the Diário da República (2003–2026), one file per article, among them the codes: Road Code, Court Costs Code, Family Code, Notarial Code, Commercial Registry Code, Land Registry Code, Labour Code, Penal Code; [`corpus.json`](corpus.json) lists them and [`STRUCTURE.md`](STRUCTURE.md) gives the folder layout. [`constituicao/README.md`](constituicao/README.md) lists every provision, and [`data/laws.csv`](data/laws.csv) the six laws with their dates.
+**What is in it now:** the Constitution (Constituição da República Democrática de São Tomé e Príncipe) in six versions: as approved in 1975, and as revised by Lei n.º 1/80, Lei n.º 2/82, Lei n.º 1/87, Lei n.º 7/90 and Lei n.º 1/2003, whose text has a preamble and 160 articles. And 125 acts published in the Diário da República (2003–2026), one file per article, among them the codes: Road Code, Court Costs Code, Family Code, Notarial Code, Commercial Registry Code, Land Registry Code, Labour Code, Penal Code; [`corpus.json`](corpus.json) lists them and [`STRUCTURE.md`](STRUCTURE.md) gives the folder layout. [`constituicao/README.md`](constituicao/README.md) lists every provision, and [`data/laws.csv`](data/laws.csv) the six laws with their dates.
 
 Each article is one file in `constituicao/` (`art-001.md` is Article 1, República Democrática de São Tomé e Príncipe), with the preamble in `preambulo.md`; the headings (partes, títulos, capítulos, secções) are gathered in [`constituicao/estrutura.md`](constituicao/estrutura.md), each naming the first article under it. The revisions reused article numbers for other subjects, so a file holds whatever article bore its number in each version.
 
@@ -70,7 +70,7 @@ The first version is credited to the Constituição Política de 1975 itself, an
 - **Part of Lei n.º 1/87.** Its new Articles 47 to 51 are applied; its first block, which amends alíneas of an article whose number the official copy leaves out, is not, so that article keeps its 1982 wording until 1990.
 - **Articles 80 to 82 of 2003 applied only from the next presidential term** (art. 160.2-3), with a transitional Article 80 until then. The source gives no date for it, so the full 2003 text is shown from 28 February 2003.
 - **The 1975 Lei Fundamental and Lei da Nacionalidade**, printed in the same file as the Constituição Política, are left out.
-- **Current text of the Diário da República acts.** Each is the edition as published, dated by its publication day; entry into force and later amendments are not established. Editions without a text layer (scans; no OCR), despachos, appointments and other procedural acts are left out.
+- **Current text of the Diário da República acts.** Each is the edition as published, dated by its entry into force where the act states it and otherwise by its publication day; later amendments are not applied. Editions without a text layer (scans; no OCR), despachos, appointments and other procedural acts are left out.
 - **Case law.** The Tribunal Constitucional rulings published online are scans without a text layer and are not read by OCR.
 
 ## Sources
@@ -79,8 +79,12 @@ The first version is credited to the Constituição Política de 1975 itself, an
 | --- | --- | --- | --- |
 | Assembleia Nacional: [Legislação Constitucional](https://web.archive.org/web/20070203155103/http://www.parlamento.st/Legisl/leg%20Constit/leg_const.htm) (parlamento.st, read through Internet Archive captures of February 2007) | Official texts: one PDF per constitutional law, with its Diário da República issue | yes, every constitutional law as published | The only texts used; parlamento.st is offline and no official legislation portal is online today |
 | Governo de São Tomé e Príncipe: [constistp.pdf](https://web.archive.org/web/20070813190023/http://www.gov.st/data/filestorage/docs/constistp.pdf) (gov.st, Internet Archive capture of August 2007) | Official text of 2003 | no | A word-for-word cross-check only |
-| Direcção Geral dos Registos e do Notariado: [Legislações](https://dgrn.gov.st/Legislacao.php) | Diário da República editions as PDF (publisher text layer) | no | 17 acts |
-| [FAOLEX](https://faolex.fao.org/) (FAO), found through [ECOLEX](https://www.ecolex.org/) | Copies of Diário da República editions as PDF (publisher text layer) | no | 54 acts |
+| Direcção Geral dos Registos e do Notariado: [Legislações](https://dgrn.gov.st/Legislacao.php) | Diário da República editions as PDF (publisher text layer) | no | 18 acts |
+| [FAOLEX](https://faolex.fao.org/) (FAO), found through [ECOLEX](https://www.ecolex.org/) | Copies of Diário da República editions as PDF (publisher text layer) | no | 87 acts |
+| [WIPO Lex](https://www.wipo.int/wipolex/en/members/profile/ST) (WIPO), secondary copy | Copies of acts as PDF (PDF text layer) | no | 1 acts |
+| Assembleia Nacional: [site hosted by the Brazilian Câmara dos Deputados](https://www2.camara.leg.br/saotomeeprincipe/legislacao) | Diário da República editions as PDF (publisher text layer) | no | 2 acts |
+| Ministério da Justiça: [justica.gov.st](https://justica.gov.st/) | Diário da República editions as PDF (publisher text layer) | no | 16 acts |
+| Banco Central de São Tomé e Príncipe: [bcstp.st](https://bcstp.st/) | PDFs of Diário da República editions and acts (publisher text layer) | no | 1 acts |
 
 ## Licence
 
