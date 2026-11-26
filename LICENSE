@@ -1,1 +1,9 @@
 The legal texts are the Constitution of São Tomé e Príncipe and its revision laws, as published by the Assembleia Nacional (parlamento.st, read through the Internet Archive). Laws and other official legislative texts are not protected by copyright under the usual rule of Portuguese-model copyright codes; we have not found an explicit statement of the position in São Tomé's own Decree-Law 02/2017, so this is an assumption, not a licence. No licence terms were found on the source site.
+
+Lexifina's own work in this repository (the file layout, the commit history, the indexes, corpus.json, STRUCTURE.md, REPRODUCE.md and the READMEs) is dedicated to the public domain under CC0 1.0 Universal: https://creativecommons.org/publicdomain/zero/1.0/
+
+The sources keep their own terms:
+
+- Diário da República acts from the Direcção Geral dos Registos e do Notariado (https://dgrn.gov.st/Legislacao.php): official gazette editions; the site states no licence terms. Official legislative texts are taken to be outside copyright (see above).
+- Diário da República acts from FAOLEX (https://faolex.fao.org/), found through ECOLEX (https://www.ecolex.org/): copies held by FAO of the official gazette editions. FAO permits reuse of its web content for non-commercial purposes with acknowledgement (https://www.fao.org/contact-us/terms/en/); the FAOLEX datasets are offered under CC BY-NC-SA 3.0 IGO (https://www.fao.org/faolex/opendata/en/). The gazette text itself is an official text of São Tomé e Príncipe. Source: FAOLEX, FAO.
+- Constitution: Assembleia Nacional (parlamento.st, read through the Internet Archive) and gov.st, as stated above.
