@@ -14,7 +14,7 @@
 | [art-006.md](art-006.md) | Artigo 6.º (Funções) |
 | [art-007.md](art-007.md) | Artigo 7.º (Aceitação de depósitos) |
 | [art-008.md](art-008.md) | Artigo 8.º (Sistemas de custódia) |
-| [art-009.md](art-009.md) | Artigo 9.º |
+| [art-009.md](art-009.md) | Artigo 9.º (Participação em instituições estrangeiras ou internacionais) |
 | [art-010.md](art-010.md) | Artigo 10.º (Operações proibidas) |
 | [art-011.md](art-011.md) | Artigo 11.º (Autoridade emissora) |
 | [art-012.md](art-012.md) | Artigo 12.º (Requisitos de emissão monetária) |
@@ -24,16 +24,16 @@
 | [art-016.md](art-016.md) | Artigo 16.º (Notas e moedas em mau estado) |
 | [art-017.md](art-017.md) | Artigo 17.º (Reprodução ou imitação de notas e moedas) |
 | [art-018.md](art-018.md) | Artigo 18.º (Apreensão de notas e moedas falsas) |
-| [art-019.md](art-019.md) | Artigo 19.º |
+| [art-019.md](art-019.md) | Artigo 19.º (Apreensão de imitações ou reproduções e respectivos instrumentos de produção) |
 | [art-020.md](art-020.md) | Artigo 20.º (Operações de mercado aberto e de crédito) |
 | [art-021.md](art-021.md) | Artigo 21.º (Constituição de reservas de caixa obrigatórias) |
 | [art-022.md](art-022.md) | Artigo 22.º (Assistência financeira de liquidez) |
 | [art-023.md](art-023.md) | Artigo 23.º (Outros instrumentos de política monetária) |
 | [art-024.md](art-024.md) | Artigo 24.º (Competências) |
-| [art-025.md](art-025.md) | Artigo 25.º |
+| [art-025.md](art-025.md) | Artigo 25.º (Operações cambiais, compra e venda de ouro e platina) |
 | [art-026.md](art-026.md) | Artigo 26.º (Reservas externas) |
 | [art-027.md](art-027.md) | Artigo 27.º (Operações sobre o exterior) |
-| [art-028.md](art-028.md) | Artigo 28.º |
+| [art-028.md](art-028.md) | Artigo 28.º (Cobertura do comércio internacional e outros pagamentos externos) |
 | [art-029.md](art-029.md) | Artigo 29.º (Consultor Financeiro do Governo) |
 | [art-030.md](art-030.md) | Artigo 30.º (Agente Financeiro do Estado) |
 | [art-031.md](art-031.md) | Artigo 31.º (Banqueiro do Estado) |

@@ -22,9 +22,7 @@ TRIBUNAL DE 1ª INSTÂNCIA
 
 Anúncio
 
-Pelo Terceiro Juízo do Tribunal de 1ª Instancia de S.Tomé, nos autos de Execução Ordinária Para Pagamento de quantia certa (Proc. N.º 25/B/02), que o exequente- Lázaro Fernandes da Cruz Ramos move contra executada- Albertina Domingas Costa, maior, solteira, Comerciante e residente em Água Bobô, correm éditos de vinte dias, contados da segunda e ultima publicação deste anúncio, citando os credores desconhecidos da referida executada para, no prazo de dez dias, findo o dos éditos, reclamarem o produto dos bens
-
-penhorados sobre que tenham garantia real.
+Pelo Terceiro Juízo do Tribunal de 1ª Instancia de S.Tomé, nos autos de Execução Ordinária Para Pagamento de quantia certa (Proc. N.º 25/B/02), que o exequente- Lázaro Fernandes da Cruz Ramos move contra executada- Albertina Domingas Costa, maior, solteira, Comerciante e residente em Água Bobô, correm éditos de vinte dias, contados da segunda e ultima publicação deste anúncio, citando os credores desconhecidos da referida executada para, no prazo de dez dias, findo o dos éditos, reclamarem o produto dos bens penhorados sobre que tenham garantia real.
 
 S.Tomé, 02 de Junho de2004.- O juiz de Direito, Dr. Frederico da Glória;- O Escrivão de Direito, Julião Vicente da Conceição.
 
@@ -68,9 +66,7 @@ c) Uma quota no valor nominal de dez milhões de dobras pertencentes ao sócios 
 
 Dois)- A gerência fica desde já autorizada a aumentar o capital social, por uma ou mais vezes, pelo montante que melhor convier a prossecução das actividades da sociedade, através de subscrição entre os sócios.
 
-Três- Os aumentos de capital serão realizados respeitando a proporção das quotas já detidas
-
-pelos respectivos sócios.
+Três- Os aumentos de capital serão realizados respeitando a proporção das quotas já detidas pelos respectivos sócios.
 
 Quatro- No caso de um dos sócios não pretender concorrer aos aumentos de capital, a sociedade em primeiro lugar e os outros sócios depois, têm direito de preferência na respectiva subscrição.
 
@@ -94,9 +90,7 @@ Dois- A sociedade obriga-se pela assinatura dos sócios gerentes ou dos procurad
 
 Três- A gerência poderá constituir mandatários ou procuradores, bem como delegar em terceiros parte ou totalidade dos seus poderes de gerência, conferindo para o efeito os competentes mandatos devidamente legalizados.
 
-Quatro- Fica vedado aos sócios em gerentes usar a firma social em letras de favor e em todos os
-
-actos ou contrato estranhos aos interesses do sociedade.
+Quatro- Fica vedado aos sócios em gerentes usar a firma social em letras de favor e em todos os actos ou contrato estranhos aos interesses do sociedade.
 
 Cinco- A Assembleia geral decidirá da remuneração ou não dos gerentes.
 
@@ -166,9 +160,7 @@ Que de harmonia com a deliberação tomada na reunião da Assembleia–Geral da 
 
 - Assim o disseram e outorgaram - Instrui este acto o acto número cinco da Assembleia–Geral da citada sociedade referida ao contexto desta escrituras.
 
-Esta escritura foi lida aos outorgantes em voz alta na presença simultânea de ambos, com advertência
-
-de ambos de que o registo deste acto deverá ser requerido no prazo legal.
+Esta escritura foi lida aos outorgantes em voz alta na presença simultânea de ambos, com advertência de ambos de que o registo deste acto deverá ser requerido no prazo legal.
 
 JUSTIFICAÇÃO NOTARIAL
 
@@ -180,17 +172,13 @@ Segundo: Pedro Alcantara Brito casado, natural de Freguesia de S. João Batista 
 
 Verifiquei a identidade dos outorgantes por exibição dos seus bilhetes de identidade números 14284 de onze de Janeiro de mil novecentos e oitenta e nove, 52322 de vinte e um de Março de do ano dois mil,58875 de dezanove de Fevereiro do ano de dois mil e um e Cédula de inscrição consular número 6435 de vinte e seis de Outubro do ano dois mil, emitidos pelo departamento de Identificação Civil e Criminal e Centro de Identificação Civil e Criminal e Consulado de Cabo Verde em São Tomé e Príncipe, respectivamente.
 
-E pelo primeiro outorgante foi dito- Que, pela presente escritura e para efeitos do artigo duzentos e dezoito do Código do Registo Predial, declara que é único e legitimo possuidor com exclusão de outrem, de uma serração coberta de luzalite, telha marselha e zinco, composta de uma Plaina de marca, «Pinheiro» uma torpia da mesma marca, uma máquina de serra de fita, uma máquina de serra grande, todas de marca Pinheiro, uma máquina de serra de fita, uma maquina de serra grande, todas de marca Pinheiro, uma maquina de fita, digo de afiar serras e uma casa de alvenaria tipo anexo, de rés-do-chão, coberta de chapas de zinco,
-
-composta de um escritório, um pequeno armazém de ferramentas e um quarto, inscrita na matriz Predial Urbana sob o número mil novecentos e oito, bem como um prédio rústicos situado em arraial Riboque, Distrito de Água Grande, que mede de frente dezoito metros nos fundos treze metros e sessenta centímetros e na sua maior extensão cinquenta metros, com a área de setecentos e noventa metros quadrados, confrontando pelo Norte, com caminho que dá a Avenida Santo condestável conduz ao Alto do Riboque; pelo Sul, com caminho Público; Nascente e Poente, com terrenos dos Vendedores e herdeiros de vigoso descrito na direcção dos Registo e Notariado– Secção dos Registo sob o número onze mil e vinte e seis, a folhas cinquenta e duas verso do livro B traço cinquenta e três que veio a sua posse por compra feita aos Senhores, Joaquim Rodrigues Marques e mulher, Maria de Lurdes de Almeida Santos, casados em regime de comunhão de bens, naturais ele da Freguesia de Varzea, Concelho de São Pedro do Sul e ela de Freguesia de Pataunços, concelho de Varsea residentes no ligar de termas e Aurilio Rodrigues Marques e Esposa, Maria de Piedade Fernanda de Matos, casados em regime de comunhão geral de bens, naturais ele da freguesia de Varzea e ela da Freguesia e concelho de São Pedro do Sul, residentes no lugar de Lameira já falecidos conforme a Sisa passada em dezassete de Março de mil novecentos e noventa e nove na Repartição de Finanças da Área Fiscal de São Tomé.
+E pelo primeiro outorgante foi dito- Que, pela presente escritura e para efeitos do artigo duzentos e dezoito do Código do Registo Predial, declara que é único e legitimo possuidor com exclusão de outrem, de uma serração coberta de luzalite, telha marselha e zinco, composta de uma Plaina de marca, «Pinheiro» uma torpia da mesma marca, uma máquina de serra de fita, uma máquina de serra grande, todas de marca Pinheiro, uma máquina de serra de fita, uma maquina de serra grande, todas de marca Pinheiro, uma maquina de fita, digo de afiar serras e uma casa de alvenaria tipo anexo, de rés-do-chão, coberta de chapas de zinco, composta de um escritório, um pequeno armazém de ferramentas e um quarto, inscrita na matriz Predial Urbana sob o número mil novecentos e oito, bem como um prédio rústicos situado em arraial Riboque, Distrito de Água Grande, que mede de frente dezoito metros nos fundos treze metros e sessenta centímetros e na sua maior extensão cinquenta metros, com a área de setecentos e noventa metros quadrados, confrontando pelo Norte, com caminho que dá a Avenida Santo condestável conduz ao Alto do Riboque; pelo Sul, com caminho Público; Nascente e Poente, com terrenos dos Vendedores e herdeiros de vigoso descrito na direcção dos Registo e Notariado– Secção dos Registo sob o número onze mil e vinte e seis, a folhas cinquenta e duas verso do livro B traço cinquenta e três que veio a sua posse por compra feita aos Senhores, Joaquim Rodrigues Marques e mulher, Maria de Lurdes de Almeida Santos, casados em regime de comunhão de bens, naturais ele da Freguesia de Varzea, Concelho de São Pedro do Sul e ela de Freguesia de Pataunços, concelho de Varsea residentes no ligar de termas e Aurilio Rodrigues Marques e Esposa, Maria de Piedade Fernanda de Matos, casados em regime de comunhão geral de bens, naturais ele da freguesia de Varzea e ela da Freguesia e concelho de São Pedro do Sul, residentes no lugar de Lameira já falecidos conforme a Sisa passada em dezassete de Março de mil novecentos e noventa e nove na Repartição de Finanças da Área Fiscal de São Tomé.
 
 A Sisa sobre a transmissão de imobiliário por titulo oneroso, foi paga na Recebedoria de Finanças em quinze de Maio de mil novecentos e noventa e oito através da guia de entrega de receitas do estado número zero zero cinco mil cento e onze datada de quinze, digo, de treze de Fevereiro de mil novecentos e noventa e oito conforme certidão da referida Direcção.
 
 Que o comprador foi trabalhador da referida Serração dos falecidos já acima referidos e com a ausência dos vendedores a Portugal continuou na Empresa como Trabalhador até que os mesmos resolveram vender-lhe.
 
-Em Junho de mil novecentos e noventa e quatro, celebram um contrato promessa Reciproca de compra e venda da Serração no valor de vinte e oito milhões setecentos e sessenta e oito mil dobras
-
-e a referida compra foi feita pelo empréstimo concedido pelo Banco Internacional de São. Tomé e Príncipe no mesmo mês e ano.
+Em Junho de mil novecentos e noventa e quatro, celebram um contrato promessa Reciproca de compra e venda da Serração no valor de vinte e oito milhões setecentos e sessenta e oito mil dobras e a referida compra foi feita pelo empréstimo concedido pelo Banco Internacional de São. Tomé e Príncipe no mesmo mês e ano.
 
 Acontece que o comprador a dada altura ficou impedido de efectivar a escritura Pública de compra e venda pelo facto dos primitivos titulares ou seja vendedores terem falecidos e logo a procuração que tivera sido passado ao seu procurador para qualquer efeito de representação caducou.
 

@@ -68,7 +68,7 @@
 | [art-060.md](art-060.md) | Artigo 60.º (Critérios e efeitos da classificação) |
 | [art-061.md](art-061.md) | Artigo 61.º (Periodicidade das classificações) |
 | [art-062.md](art-062.md) | Artigo 62.º (Elementos a Considerar) |
-| [art-063.md](art-063.md) | Artigo 63.º |
+| [art-063.md](art-063.md) | Artigo 63.º (Requisitos para Ingresso na Magistratura do Ministério Público) |
 | [art-064.md](art-064.md) | Artigo 64.º (Acesso e Carreira) |
 | [art-065.md](art-065.md) | Artigo 65.º (Condições gerais de acesso) |
 | [art-066.md](art-066.md) | Artigo 66.º (Renúncia) |
@@ -152,7 +152,7 @@
 | [art-144.md](art-144.md) | Artigo 144.º (Polícia de Investigação Criminal) |
 | [art-145.md](art-145.md) | Artigo 145.º (Secretarias e funcionários) |
 | [art-146.md](art-146.md) | Artigo 146.º (Regime supletivo) |
-| [art-147.md](art-147.md) | Artigo 147.º |
+| [art-147.md](art-147.md) | Artigo 147.º (Procuradores da República adjuntos em regime transitório de funções) |
 | [art-148.md](art-148.md) | Artigo 148.º |
 | [art-149.md](art-149.md) | Artigo 149.º (Remunerações de magistrados) |
 | [art-150.md](art-150.md) | Artigo 150.º (Revogação) |

@@ -22,9 +22,7 @@ Estão em curso, as negociações com a ALSF, com vista a acompanhar o Governo n
 
 3- Apoio para as negociações com o consorcio privado.
 
-- A negociação do contracto de concessão, no âmbito das PPPs, sobretudo em regimes de BOT, é um mo-
-
-mento importante que deve ser acautelado com a assistência técnica de empresas especializadas e com experiência relevante.
+- A negociação do contracto de concessão, no âmbito das PPPs, sobretudo em regimes de BOT, é um momento importante que deve ser acautelado com a assistência técnica de empresas especializadas e com experiência relevante.
 
 - O Governo deve negociar com o potencial concessionário a inclusão, no pacote de financiamento do projecto, de verbas para pagar a assistência técnicas às negociações. Assim, o Governo fará uma consulta restrita a 3 empresas internacionais com o fim de identificar o parceiro adequado para as negociações.
 

@@ -146,9 +146,7 @@ Macuru
 
 a) Colocação de fogos;
 
-a)
-
-b) Corte de árvores nas áreas devidamente designadas, sem autorização da entidade estatal b) competente;
+a) b) Corte de árvores nas áreas devidamente designadas, sem autorização da entidade estatal b) competente;
 
 c) Corte de árvores nas encostas com inclinação superior a 20º;
 
@@ -160,15 +158,11 @@ f) Soltura de animais domésticos.
 
 a) Colocação de fogos;
 
-a)
-
-b) Corte de árvores nas áreas devidamente designadas, sem autorização da entidade estatal b) competente;
+a) b) Corte de árvores nas áreas devidamente designadas, sem autorização da entidade estatal b) competente;
 
 c) Corte de árvores nas encostas com inclinação superior a 20º;
 
-c)
-
-d) Corte de madeiras verdes em pé para produd) ção de carvão;
+c) d) Corte de madeiras verdes em pé para produd) ção de carvão;
 
 e) Uso de insumos químicos e pesticidas;
 
@@ -188,17 +182,13 @@ l) Soltura de animais domésticos.
 
 a) Colocação de fogos;
 
-a)
-
-b) Uso de insumos químicos e pesticidas;
+a) b) Uso de insumos químicos e pesticidas;
 
 b) c) Corte de madeiras verdes em pé para produção de carvão;
 
 c) d) Corte de árvores nas áreas devidamente designadas, sem autorização da entidade estatal competente;
 
-d)
-
-e) Corte de árvores nas encostas com inclinação superior a 20º;
+d) e) Corte de árvores nas encostas com inclinação superior a 20º;
 
 f) Construção de habitações e outras infraestruturas fixas para exploração turísticas;
 
@@ -232,9 +222,7 @@ Praias do Sul
 
 a) Colocação de fogos;
 
-a)
-
-b) Uso de insumos químicos e pesticidas;
+a) b) Uso de insumos químicos e pesticidas;
 
 b) c) Corte de madeiras verdes em pé para produção de carvão;
 
@@ -248,9 +236,7 @@ g) Soltura de animais domésticos.
 
 a) Colocação de fogos;
 
-a)
-
-b) Uso de insumos químicos e pesticidas;
+a) b) Uso de insumos químicos e pesticidas;
 
 b) c) Corte de árvores até 50m da praia e na zona de mangal;
 
@@ -294,9 +280,7 @@ Xixi
 
 a) Colocação de fogos;
 
-a)
-
-b) Uso de insumos químicos e pesticidas;
+a) b) Uso de insumos químicos e pesticidas;
 
 c) Corte de árvores até 50m da praia e na zona de mangal;
 
@@ -314,9 +298,7 @@ d) i) Utilização de veículos motorizados e não motorizados na praia;
 
 j) Soltura de animais domésticos.
 
-e)
-
-a) Colocação de fogos;
+e) a) Colocação de fogos;
 
 b) Corte de árvores nas áreas devidamente a) designadas, sem autorização da entidade estatal competente;
 
@@ -344,9 +326,7 @@ Extracção de vinho da palma e de plantas medicinais sem autorização do Gesto
 
 Mussacavú a) Colocação de fogos;
 
-a)
-
-b) Uso de insumos químicos e pesticidas;
+a) b) Uso de insumos químicos e pesticidas;
 
 b) c) Corte de madeiras verdes em pé para produção de carvão;
 
@@ -376,9 +356,7 @@ g) Captura de tartarugas marinhas;
 
 h) Iluminação eléctrica branca mantida dud) rante toda noite nas praias de nidificação, ao longo das épocas de desova das tartarugas marinhas;
 
-e)
-
-i) Ruído artificial ou de outras actividades humanas, além das 20h no período de desova;
+e) i) Ruído artificial ou de outras actividades humanas, além das 20h no período de desova;
 
 j) Construção de novas habitações e outros edifícios a menos de 50m da praia;
 

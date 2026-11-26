@@ -12,16 +12,16 @@
 | [art-004.md](art-004.md) | Artigo 4.º (Designação Escritural) |
 | [art-005.md](art-005.md) | Artigo 5.º (Conversão e Arredondamento) |
 | [art-006.md](art-006.md) | Artigo 6.º (Carácter automático da conversão) |
-| [art-007.md](art-007.md) | Artigo 7.º |
+| [art-007.md](art-007.md) | Artigo 7.º (Efeitos da conversão sobre operações bancárias e cambiais) |
 | [art-008.md](art-008.md) | Artigo 8.º (Tratamento da contabilidade bancária) |
-| [art-009.md](art-009.md) | Artigo 9.º |
+| [art-009.md](art-009.md) | Artigo 9.º (Tratamento de cheques e outros títulos de crédito) |
 | [art-010.md](art-010.md) | Artigo 10.º (Extensão do regime) |
 | [art-011.md](art-011.md) | Artigo 11.º (Encargos) |
 | [art-012.md](art-012.md) | Artigo 12.º (Circulação Simultânea) |
 | [art-013.md](art-013.md) | Artigo 13.º (Dupla Indicação de Preços) |
 | [art-014.md](art-014.md) | Artigo 14.º (Arredondamento) |
 | [art-015.md](art-015.md) | Artigo 15.º (Tratamento contabilístico e fiscal) |
-| [art-016.md](art-016.md) | Artigo 16.º |
+| [art-016.md](art-016.md) | Artigo 16.º (Tratamento contabilístico para os órgãos e instituições do Estado) |
 | [art-017.md](art-017.md) | Artigo 17.º (Efeitos sobre contratos e demais actos) |
 | [art-018.md](art-018.md) | Artigo 18.º (Regime sancionatório) |
 | [art-019.md](art-019.md) | Artigo 19.º (Retirada da Circulação) |

@@ -34,9 +34,7 @@ Laboratório
 
 Telecomunicações
 
-Armamento, Transporte e Segurança
-
-falta de remessa, deve ser dirigida ao Centro de Informática e Reprografia do Ministério da Justiça e
+Armamento, Transporte e Segurança falta de remessa, deve ser dirigida ao Centro de Informática e Reprografia do Ministério da Justiça e
 
 Assuntos Parlamentares – Telefone: 225693 - Caixa Postal n.º 901 – E-mail: cir@cstome.net São
 

@@ -21,13 +21,13 @@
 | [art-013.md](art-013.md) | Artigo 13.º (Director) |
 | [art-014.md](art-014.md) | Artigo 14.º (Composição do Conselho de Policia Criminal) |
 | [art-015.md](art-015.md) | Artigo 15.º (Competência e Funcionamento do Conselho de Polícia) |
-| [art-016.md](art-016.md) | Artigo 16.º |
+| [art-016.md](art-016.md) | Artigo 16.º (Composição do Departamento de Prevenção e Investigação Criminal) |
 | [art-017.md](art-017.md) | Artigo 17.º (Composição e Competência da Secção de Prevenção) |
 | [art-018.md](art-018.md) | Artigo 18.º (Composição e Competência da Secção de Investigação) |
-| [art-019.md](art-019.md) | Artigo 19.º |
+| [art-019.md](art-019.md) | Artigo 19.º (Natureza e Composição da Unidade de Serviços Especializados) |
 | [art-020.md](art-020.md) | Artigo 20.º (Competência da Unidade de Serviço Especializado) |
-| [art-021.md](art-021.md) | Artigo 21.º |
-| [art-022.md](art-022.md) | Artigo 22.º |
+| [art-021.md](art-021.md) | Artigo 21.º (Competência e Composição do Departamento Administrativo e Financeiro) |
+| [art-022.md](art-022.md) | Artigo 22.º (Competência e Composição do Gabinete Nacional da Interpol) |
 | [art-023.md](art-023.md) | Artigo 23.º (Quadro Único) |
 | [art-024.md](art-024.md) | Artigo 24.º (Concursos de Provimento) |
 | [art-025.md](art-025.md) | Artigo 25.º (Prioridade do Provimento) |

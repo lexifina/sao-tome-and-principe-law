@@ -30,7 +30,7 @@
 | [art-022.md](art-022.md) | Artigo 22.º |
 | [art-023.md](art-023.md) | Artigo 23.º ((Regras de Reparação das Obras)) |
 | [art-024.md](art-024.md) | Artigo 24.º |
-| [art-025.md](art-025.md) | Artigo 25.º |
+| [art-025.md](art-025.md) | Artigo 25.º ((Comunicação de Intenção de Realizar Trabalhos ou Obras em Imóveis Classificados ou Propostos para Classificação)) |
 | [art-026.md](art-026.md) | Artigo 26.º ((Trabalhos de Conservação e Reparação)) |
 | [art-027.md](art-027.md) | Artigo 27.º ((Execução dos Trabalhos pelo Estado)) |
 | [art-028.md](art-028.md) | Artigo 28.º ((Expropriação)) |

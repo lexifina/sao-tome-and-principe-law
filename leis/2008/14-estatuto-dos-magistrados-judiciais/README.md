@@ -71,7 +71,7 @@
 | [art-063.md](art-063.md) | Artigo 63.º (Juramento) |
 | [art-064.md](art-064.md) | Artigo 64.º (Falta de posse) |
 | [art-065.md](art-065.md) | Artigo 65.º (Competência para conferir posse) |
-| [art-066.md](art-066.md) | Artigo 66.º |
+| [art-066.md](art-066.md) | Artigo 66.º (Posse do Presidente do Supremo Tribunal de Justiça) |
 | [art-067.md](art-067.md) | Artigo 67.º (Magistrados em comissão) |
 | [art-068.md](art-068.md) | Artigo 68.º (Aposentação a requerimento) |
 | [art-069.md](art-069.md) | Artigo 69.º (Aposentação por incapacidade) |
@@ -81,7 +81,7 @@
 | [art-073.md](art-073.md) | Artigo 73.º (Cessação de funções) |
 | [art-074.md](art-074.md) | Artigo 74.º (Suspensão de funções) |
 | [art-075.md](art-075.md) | Artigo 75.º (Antiguidade na carreira) |
-| [art-076.md](art-076.md) | Artigo 76.º |
+| [art-076.md](art-076.md) | Artigo 76.º (Tempo de serviço para antiguidade e para a aposentação) |
 | [art-077.md](art-077.md) | Artigo 77.º (Tempo de serviço que não conta para antiguidade) |
 | [art-078.md](art-078.md) | Artigo 78.º (Contagem da antiguidade) |
 | [art-079.md](art-079.md) | Artigo 79.º (Lista de antiguidade) |

@@ -1,8 +1,6 @@
 # Preâmbulo
 
-Considerando que participam no processo eleitoral diversas instituições com diferenciadas atribuições, com-
-
-petências e funções, cabendo a cada uma delas responsabilidades neste processo;
+Considerando que participam no processo eleitoral diversas instituições com diferenciadas atribuições, competências e funções, cabendo a cada uma delas responsabilidades neste processo;
 
 Considerando que a Lei Eleitoral define, por um lado, um quadro jurídico para a cobertura de todo o processo eleitoral, incluindo os princípios gerais e as regras eleitorais próprias de um Estado de Direito Democrático e, por outro, caracteriza e regulamenta os ilícitos eleitorais e estabelece as respectivas infracções e penalizações;
 

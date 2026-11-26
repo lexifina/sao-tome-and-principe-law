@@ -10,9 +10,7 @@ Artigo Único Gabinete do Presidente da Assembleia Nacio- É dado assentimento n
 
 por um período de cinco dias, a partir do dia 26 de Fevereiro de 2004, para participar na Sessão Extraor- Despacho dinária da Conferência dos Chefes de Estado dos Países Membros da União Africana, que se realizará de Tornando-se necessário providenciar pelo 27 à 28 de Fevereiro de 2004, em Syrte - Jamahirya normal funcionamento da Assembleia Nacional, por Árabe Líbia Popular Socialista.
 
-motivo do meu impedimento, nos termos do disposto
-
-nos artigos 87.º da Constituição e 24.° do Regimento da Assembleia Nacional;
+motivo do meu impedimento, nos termos do disposto nos artigos 87.º da Constituição e 24.° do Regimento da Assembleia Nacional;
 
 No uso das faculdades que me são conferidas ao abrigo do disposto no n.° 1 do artigo 27.° do Regimento da Assembleia Nacional, indico para me substituir na Presidência da Assembleia Nacional, enquanto durar o meu impedimento, Sua Excelência o Vice-Presidente, Jaime José da Costa.
 
@@ -42,9 +40,7 @@ Constituição da Sociedade
 
 Carlos Olímpio Stock, Director da Direcção, dos Registos e Notariado do Ministério da Justiça, Reforma do Estado e Administração Pública de São Tomé;
 
-Certifica, que para efeitos de publicação que
-
-por escritura de vinte e um de Novembro do ano dois mil e três, lavrada nesta Direcção - Secção Notarial e exarada de folhas cento e sessenta e seis a folhas cento e setenta verso do livro de notas para escrituras diversas número oitocentos e oitenta e nove, os senhores, Eurídice Fernandes Pina Dias, solteira, maior, natural de Conceição- São Tomé, residente na Rua da Caixa, Distrito de Água Grande, Hector Afonso Costa, solteiro, maior; natural de Guadalupe, residente em Boa Morte, Distrito de Água Grande, Jorge de Mascarenhas, solteiro, maior, natural de Santana - São Tomé, residente em Conde, Distrito de Lobata; Alfredo de Sousa Santiago, solteiro, maior, natural de santa Filomena - São Tomé, residente em Montalegre, Distrito de Mé-Zóchi; Leonel Raimundo das Neves Sacramento, solteiro, maior, natural de Conceição- Príncipe, residente no Bairro Três de Fevereiro, Distrito de Água Grande e José de Deus Lima de Menezes, solteiro, maior, natural de Graça - São Tomé, residente na rua Patrice Lumumba, Distrito de Água Grande, resolveram entre si constituir uma sociedade por quotas de responsabilidade Limitada que se regerá nos termos constantes dos artigos seguintes:
+Certifica, que para efeitos de publicação que por escritura de vinte e um de Novembro do ano dois mil e três, lavrada nesta Direcção - Secção Notarial e exarada de folhas cento e sessenta e seis a folhas cento e setenta verso do livro de notas para escrituras diversas número oitocentos e oitenta e nove, os senhores, Eurídice Fernandes Pina Dias, solteira, maior, natural de Conceição- São Tomé, residente na Rua da Caixa, Distrito de Água Grande, Hector Afonso Costa, solteiro, maior; natural de Guadalupe, residente em Boa Morte, Distrito de Água Grande, Jorge de Mascarenhas, solteiro, maior, natural de Santana - São Tomé, residente em Conde, Distrito de Lobata; Alfredo de Sousa Santiago, solteiro, maior, natural de santa Filomena - São Tomé, residente em Montalegre, Distrito de Mé-Zóchi; Leonel Raimundo das Neves Sacramento, solteiro, maior, natural de Conceição- Príncipe, residente no Bairro Três de Fevereiro, Distrito de Água Grande e José de Deus Lima de Menezes, solteiro, maior, natural de Graça - São Tomé, residente na rua Patrice Lumumba, Distrito de Água Grande, resolveram entre si constituir uma sociedade por quotas de responsabilidade Limitada que se regerá nos termos constantes dos artigos seguintes:
 
 Artigo Primeiro
 
@@ -80,9 +76,7 @@ Um - A gerência da sociedade, sua representação activa e passiva em juízo e 
 
 Dois - A Sociedade obriga-se pelas assinaturas conjuntas dos gerentes ou com a de um deles e uma de um dos sócios, bastará a assinatura de qualquer dos gerentes para assuntos de mero expediente, ficando proibido obrigar a Sociedade em finanças, alienações ou letras de favor e actas semelhantes ou ainda em actos ou contratos estranhos ao seu objecto social.
 
-Três - Os gerentes poderão delegar os seus
-
-poderes de gerência num outro sócio ou em terceiro, carecendo neste caso de consentimento da Assembleia Geral ou ainda constituir mandatário com poderes gerais ou especiais de gerência ou para quaisquer outros fins interesse social, os quais obrigarão validamente a Sociedade nos limites dos poderes que lhe hajam sido conferidas.
+Três - Os gerentes poderão delegar os seus poderes de gerência num outro sócio ou em terceiro, carecendo neste caso de consentimento da Assembleia Geral ou ainda constituir mandatário com poderes gerais ou especiais de gerência ou para quaisquer outros fins interesse social, os quais obrigarão validamente a Sociedade nos limites dos poderes que lhe hajam sido conferidas.
 
 Artigo Sexto
 
