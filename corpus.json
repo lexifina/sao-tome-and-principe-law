@@ -485,6 +485,21 @@
    "source_sha256": "ef52a2cc11fc621b35ea6a5d73aea3e330a48b891e48ab1b2214c0e543ec84e3"
   },
   {
+   "path": "decretos-lei/2009/58-sociedade-gestora-de-sistemas-de-pagamentos-automaticos",
+   "law": "Decreto-Lei n.º 58/2009",
+   "type": "Decreto-Lei",
+   "title": "SOCIEDADE GESTORA DE SISTEMAS DE PAGAMENTOS AUTOMÁTICOS ABREVIADAMENTE, SPAUT, S.A",
+   "published": "2009-12-31",
+   "in_force": "2009-12-31",
+   "in_force_basis": "entra em vigor na data da sua publicação.",
+   "date_basis": "in-force",
+   "gazette_issue": "2009/90",
+   "provision_files": 8,
+   "source": "https://web.archive.org/web/20190923034951id_/http://justica.gov.st/resources/documents/DR.pdf",
+   "via": "Ministério da Justiça",
+   "source_sha256": "2fc48988f465094becf17903290396934f0f52ad354b8d86927eccdb951d53e7"
+  },
+  {
    "path": "leis/2009/14-alteracao-da-carta-de-lei-de-28",
    "law": "Lei n.º 14/2009",
    "type": "Lei",
@@ -633,6 +648,21 @@
    "source": "https://faolex.fao.org/docs/pdf/sao121605.pdf",
    "via": "FAOLEX",
    "source_sha256": "513a495f5193ab7b711a3cd6681af7cdbc6f9053e7149133fa4fafa0c4c20e2f"
+  },
+  {
+   "path": "decretos-lei/2011/19-texto",
+   "law": "Decreto-Lei n.º 19/2011",
+   "type": "Decreto-Lei",
+   "title": "",
+   "published": "2011-06-10",
+   "in_force": "2011-06-10",
+   "in_force_basis": "entra em vigor na data da sua publicação.",
+   "date_basis": "in-force",
+   "gazette_issue": "2011/56",
+   "provision_files": 19,
+   "source": "https://faolex.fao.org/docs/pdf/sao117252.pdf",
+   "via": "FAOLEX",
+   "source_sha256": "3890316f9f45ede423882bd44a6cd28f7a533e950664a4b294436bb814f1cc77"
   },
   {
    "path": "leis/2012/4-lei-de-base-do-programa-nacional-de",
@@ -798,6 +828,21 @@
    "source": "https://www2.camara.leg.br/saotomeeprincipe/legislacao/eleitoral/Lei-5-2014.pdf/at_download/file",
    "via": "Assembleia Nacional",
    "source_sha256": "4889298becf8d73fc4f0cb8c59a6cd9641b37995c0c8fa6d0ad0fb548b810e91"
+  },
+  {
+   "path": "decretos/2014/54-que-aprova-regulamento-e-inspeccao-da-administracao",
+   "law": "Decreto n.º 54/2014",
+   "type": "Decreto",
+   "title": "Que Aprova Regulamento e Inspecção da Administração Pública",
+   "published": "2014-12-31",
+   "in_force": null,
+   "in_force_basis": null,
+   "date_basis": "published",
+   "gazette_issue": "2014/183",
+   "provision_files": 13,
+   "source": "https://web.archive.org/web/20200918112458id_/http://justica.gov.st/resources/documents/organismos/Decreto%20n.%C2%BA_54.2014.pdf",
+   "via": "Ministério da Justiça",
+   "source_sha256": "2e028e833c3fee5032d3c54a100717972206e56c977033f0b6a32c58abf1c756"
   },
   {
    "path": "decretos/2014/67-texto",
@@ -1100,6 +1145,21 @@
    "source_sha256": "3de74e18f3fc22f7a81f0aabf0e8df8b9abe34cf42117c074c586a58b240dfc1"
   },
   {
+   "path": "decretos-lei/2018/5-regime-das-contra-ordenacoes-nas-areas-de",
+   "law": "Decreto-Lei n.º 05/2018",
+   "type": "Decreto-Lei",
+   "title": "Regime das Contra-ordenações nas Áreas de Jurisdição Marítima",
+   "published": "2018-02-20",
+   "in_force": null,
+   "in_force_basis": null,
+   "date_basis": "published",
+   "gazette_issue": "2018/13",
+   "provision_files": 3,
+   "source": "https://faolex.fao.org/docs/pdf/sao186424.pdf",
+   "via": "FAOLEX",
+   "source_sha256": "3de74e18f3fc22f7a81f0aabf0e8df8b9abe34cf42117c074c586a58b240dfc1"
+  },
+  {
    "path": "leis/2018/1-organica-da-policia-judiciaria",
    "law": "Lei n.º 01/2018",
    "type": "Lei",
@@ -1218,6 +1278,21 @@
    "source": "https://dgrn.gov.st/leis/Lei/Dr_n_2018_92_codigo_notariado.pdf",
    "via": "DGRN",
    "source_sha256": "ad2a5d6b4286b85266adeb268aa75c23ed189086982d8b8ffbb9617db8dcb442"
+  },
+  {
+   "path": "leis/2018/16-regime-juridico-das-microfinancas",
+   "law": "Lei n.º 16/2018",
+   "type": "Lei",
+   "title": "Regime Jurídico das Microfinanças",
+   "published": "2018-09-03",
+   "in_force": null,
+   "in_force_basis": null,
+   "date_basis": "published",
+   "gazette_issue": "2018/130",
+   "provision_files": 30,
+   "source": "https://dgrn.gov.st/leis/Lei/Regime_Juridico_microfinancas.pdf",
+   "via": "DGRN",
+   "source_sha256": "89188067f0e0c71f9eb2d26b74622ce70ef3a5a7b567ac1be6757bd4cc988211"
   },
   {
    "path": "codigos/codigo-de-familia",
@@ -1758,6 +1833,21 @@
    "source": "https://faolex.fao.org/docs/pdf/sao221617.pdf",
    "via": "FAOLEX",
    "source_sha256": "0c5a92210778f0bbd2d3da5e30b2d98acd939ec6ac215a29893984239ec8a281"
+  },
+  {
+   "path": "resolucoes/2024/82-xii-e-aprovada-para-ratificacao-a-revisao-do",
+   "law": "Resolução n.º 82/XII/2024",
+   "type": "Resolução",
+   "title": "É aprovada, para ratificação, a Revisão do ção dos Contratos Públicos em São Tomé e Estatuto da CPLP, celebrada em 20 de Julho Príncipe. de 2017, em Brasília",
+   "published": "2024-09-19",
+   "in_force": null,
+   "in_force_basis": null,
+   "date_basis": "published",
+   "gazette_issue": "2024/49",
+   "provision_files": 2,
+   "source": "https://faolex.fao.org/docs/pdf/sao231108.pdf",
+   "via": "FAOLEX",
+   "source_sha256": "d871936ba191678db8be2de1de7a1638165e64808fff76ca5a064b939f0807bb"
   },
   {
    "path": "leis/2025/3-lei-organica-do-banco-central-de-sao",

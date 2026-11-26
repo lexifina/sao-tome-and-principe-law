@@ -87,10 +87,10 @@ Sources (publisher PDFs of the Diário da República, I Série, read from their 
 
 | Source | Address | Acts |
 | --- | --- | ---: |
-| Direcção Geral dos Registos e do Notariado (DGRN), page "Legislações" | <https://dgrn.gov.st/Legislacao.php> | 17 |
-| FAOLEX (FAO) copies of Diário da República editions, listed through ECOLEX (secondary copy) | <https://faolex.fao.org/> · <https://www.ecolex.org/> | 85 |
+| Direcção Geral dos Registos e do Notariado (DGRN), page "Legislações" | <https://dgrn.gov.st/Legislacao.php> | 18 |
+| FAOLEX (FAO) copies of Diário da República editions, listed through ECOLEX (secondary copy) | <https://faolex.fao.org/> · <https://www.ecolex.org/> | 88 |
 | Banco Central de São Tomé e Príncipe | <https://bcstp.st/> | 1 |
-| Ministério da Justiça | <https://justica.gov.st/> | 14 |
+| Ministério da Justiça | <https://justica.gov.st/> | 16 |
 | Assembleia Nacional (site hosted by the Brazilian Câmara dos Deputados) | <https://www2.camara.leg.br/saotomeeprincipe/> | 2 |
 
 The official-host and WIPO Lex PDF addresses were first found in a third-party URL list (Hugging Face `endomorphosis/ipfs_saotome_laws`); only the addresses were used, every PDF was fetched from its own host.
@@ -103,7 +103,7 @@ Steps (scripts in the Lexifina build tree, `runner/`):
    the edition split at each act heading (Lei, Decreto-Lei, Decreto, Resolução, …), each act split at its `Artigo N.º` headings.
 3. Each act is one commit dated noon on the publication day. The same act found in two PDFs is taken once (the longer text).
 4. Not taken: PDFs without a text layer (scans; no OCR), despachos, avisos, appointments and other procedural acts, and acts whose
-   column order or article numbering could not be read reliably (33 held; listed in the build state).
+   column order or article numbering could not be read reliably (34 held; listed in the build state).
 
 5. `st_pass2.py run` re-reads every PDF with `st_columns.py`, a column-aware reader: line boxes mapped to the displayed page
    (rotated pages included), clean vertical gutters split into columns, full-width lines split the page into bands, each band read
