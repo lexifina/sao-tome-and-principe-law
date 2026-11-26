@@ -4,7 +4,7 @@
   "name": "São Tomé and Príncipe",
   "level": "country",
   "repo": "https://github.com/lexifina/sao-tome-and-principe-law",
-  "build": "Constitution: six historical versions (1975–2003). 71 acts from Diário da República editions (2003–2026), dated by publication day; codes: Road Code, Court Costs Code, Family Code, Notarial Code, Commercial Registry Code, Land Registry Code, Labour Code, Penal Code. Current text and later amendments not established.",
+  "build": "Constitution: six historical versions (1975-2003). 125 acts from Diário da República editions (2003–2026), dated by entry into force where the act states it, otherwise by publication day; codes: Road Code, Court Costs Code, Family Code, Notarial Code, Commercial Registry Code, Land Registry Code, Labour Code, Penal Code. Later amendments not applied.",
   "register": "https://claude.ai/artifact/DdS9F6yqpPZtV2i7FGQhYZ",
   "register_date": "2026-10-28"
 }
