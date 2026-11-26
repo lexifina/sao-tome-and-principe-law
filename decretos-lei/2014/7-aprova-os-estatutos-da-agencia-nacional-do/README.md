@@ -1,7 +1,7 @@
 # Decreto-Lei n.º 7/2014 — Aprova os Estatutos da Agência Nacional do Petróleo de São Tomé e Príncipe
 
 - Publicação: Diário da República n.º 32, de 2014-04-25 (I Série)
-- Data dos commits: dia da publicação no Diário da República (a entrada em vigor não foi apurada).
+- Entrada em vigor: 2014-04-25 («entra em vigor na data da sua publicação oficial.»). O commit do texto tem a data da publicação; a entrada em vigor foi apurada depois.
 - Fonte: <https://faolex.fao.org/docs/pdf/sao215300.pdf> (FAOLEX; texto do próprio PDF oficial, sem OCR)
 
 | Ficheiro | Disposição |

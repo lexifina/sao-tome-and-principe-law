@@ -1,7 +1,7 @@
 # Decreto n.º 15/2017 — Aprova as atribuições e estabelece a composição do Conselho Nacional de Proteção Social
 
 - Publicação: Diário da República n.º 147, de 2017-10-06 (I Série)
-- Data dos commits: dia da publicação no Diário da República (a entrada em vigor não foi apurada).
+- Entrada em vigor: 2017-10-06 («entra imediatamente em vigor.»). O commit do texto tem a data da publicação; a entrada em vigor foi apurada depois.
 - Fonte: <https://faolex.fao.org/docs/pdf/sao170626.pdf> (FAOLEX; texto do próprio PDF oficial, sem OCR)
 
 | Ficheiro | Disposição |

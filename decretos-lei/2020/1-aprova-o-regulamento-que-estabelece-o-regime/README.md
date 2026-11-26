@@ -1,7 +1,7 @@
 # Decreto-Lei n.º 1/2020 — Aprova o Regulamento que Estabelece o Regime Especial e Transitório para Aquisição de Energia
 
 - Publicação: Diário da República n.º 5, de 2020-02-17 (I Série)
-- Data dos commits: dia da publicação no Diário da República (a entrada em vigor não foi apurada).
+- Entrada em vigor: 2020-02-17 («entra em vigor na data da sua publicação»). O commit do texto tem a data da publicação; a entrada em vigor foi apurada depois.
 - Fonte: <https://faolex.fao.org/docs/pdf/sao193170.pdf> (FAOLEX; texto do próprio PDF oficial, sem OCR)
 
 | Ficheiro | Disposição |

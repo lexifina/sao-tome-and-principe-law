@@ -1,7 +1,7 @@
 # Decreto-Lei n.º 64/2013 — Que Revoga o Decreto - Lei n.º 14/2003, de 31 de Dezembro, 5.º Suplemento, que Institui a Taxa de Impacto
 
 - Publicação: Diário da República n.º 163, de 2013-12-31 (I Série)
-- Data dos commits: dia da publicação no Diário da República (a entrada em vigor não foi apurada).
+- Entrada em vigor: 2013-12-31 («entra imediatamente em vigor.»). O commit do texto tem a data da publicação; a entrada em vigor foi apurada depois.
 - Fonte: <https://faolex.fao.org/docs/pdf/sao196846.pdf> (FAOLEX; texto do próprio PDF oficial, sem OCR)
 
 | Ficheiro | Disposição |
