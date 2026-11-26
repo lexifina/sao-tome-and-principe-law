@@ -88,7 +88,7 @@ Sources (publisher PDFs of the Diário da República, I Série, read from their 
 | Source | Address | Acts |
 | --- | --- | ---: |
 | Direcção Geral dos Registos e do Notariado (DGRN), page "Legislações" | <https://dgrn.gov.st/Legislacao.php> | 18 |
-| FAOLEX (FAO) copies of Diário da República editions, listed through ECOLEX (secondary copy) | <https://faolex.fao.org/> · <https://www.ecolex.org/> | 88 |
+| FAOLEX (FAO) copies of Diário da República editions, listed through ECOLEX (secondary copy) | <https://faolex.fao.org/> · <https://www.ecolex.org/> | 87 |
 | Banco Central de São Tomé e Príncipe | <https://bcstp.st/> | 1 |
 | Ministério da Justiça | <https://justica.gov.st/> | 16 |
 | Assembleia Nacional (site hosted by the Brazilian Câmara dos Deputados) | <https://www2.camara.leg.br/saotomeeprincipe/> | 2 |
