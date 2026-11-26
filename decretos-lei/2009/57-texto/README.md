@@ -2,7 +2,7 @@
 
 - Publicação: Diário da República n.º 90, de 2009-12-31 (I Série)
 - Entrada em vigor: 2009-12-31 («entra imediatamente em vigor.»); é a data do commit.
-- Fonte: <https://faolex.fao.org/docs/pdf/sao118609.pdf> (FAOLEX; texto do próprio PDF oficial, sem OCR)
+- Fonte: <https://faolex.fao.org/docs/pdf/sao118609.pdf> (FAOLEX; PDF digitalizado: texto da camada OCR do próprio PDF, sem OCR nosso)
 
 | Ficheiro | Disposição |
 | --- | --- |
