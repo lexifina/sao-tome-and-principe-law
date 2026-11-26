@@ -81,10 +81,10 @@ The first version is credited to the Constituição Política de 1975 itself, an
 | Governo de São Tomé e Príncipe: [constistp.pdf](https://web.archive.org/web/20070813190023/http://www.gov.st/data/filestorage/docs/constistp.pdf) (gov.st, Internet Archive capture of August 2007) | Official text of 2003 | no | A word-for-word cross-check only |
 | Direcção Geral dos Registos e do Notariado: [Legislações](https://dgrn.gov.st/Legislacao.php) | Diário da República editions as PDF (publisher text layer) | no | 18 acts |
 | [FAOLEX](https://faolex.fao.org/) (FAO), found through [ECOLEX](https://www.ecolex.org/) | Copies of Diário da República editions as PDF (publisher text layer) | no | 87 acts |
-| [WIPO Lex](https://www.wipo.int/wipolex/en/members/profile/ST) (WIPO), secondary copy | Copies of acts as PDF (PDF text layer) | no | 1 acts |
+| [WIPO Lex](https://www.wipo.int/wipolex/en/members/profile/ST) (WIPO), secondary copy | Copies of acts as PDF (PDF text layer) | no | 1 act |
 | Assembleia Nacional: [site hosted by the Brazilian Câmara dos Deputados](https://www2.camara.leg.br/saotomeeprincipe/legislacao) | Diário da República editions as PDF (publisher text layer) | no | 2 acts |
-| Ministério da Justiça: [justica.gov.st](https://justica.gov.st/) | Diário da República editions as PDF (publisher text layer) | no | 16 acts |
-| Banco Central de São Tomé e Príncipe: [bcstp.st](https://bcstp.st/) | PDFs of Diário da República editions and acts (publisher text layer) | no | 1 acts |
+| Ministério da Justiça: justica.gov.st (offline since; read through Internet Archive captures of 2019–2021) | Diário da República editions as PDF (publisher text layer) | no | 16 acts |
+| Banco Central de São Tomé e Príncipe: [bcstp.st](https://bcstp.st/) | PDFs of Diário da República editions and acts (publisher text layer) | no | 1 act |
 
 ## Licence
 

@@ -81,10 +81,10 @@ A primeira versão é atribuída à própria Constituição Política de 1975, e
 | Governo de São Tomé e Príncipe: [constistp.pdf](https://web.archive.org/web/20070813190023/http://www.gov.st/data/filestorage/docs/constistp.pdf) (gov.st, captura do Internet Archive de agosto de 2007) | Texto oficial de 2003 | não | Apenas uma verificação cruzada palavra a palavra |
 | Direcção Geral dos Registos e do Notariado: [Legislações](https://dgrn.gov.st/Legislacao.php) | Edições do Diário da República em PDF (camada de texto do editor) | não | 18 atos |
 | [FAOLEX](https://faolex.fao.org/) (FAO), localizado através do [ECOLEX](https://www.ecolex.org/) | Cópias de edições do Diário da República em PDF (camada de texto do editor) | não | 87 atos |
-| [WIPO Lex](https://www.wipo.int/wipolex/en/members/profile/ST) (OMPI), cópia secundária | Cópias de diplomas em PDF (camada de texto do PDF) | não | 1 atos |
+| [WIPO Lex](https://www.wipo.int/wipolex/en/members/profile/ST) (OMPI), cópia secundária | Cópias de diplomas em PDF (camada de texto do PDF) | não | 1 ato |
 | Assembleia Nacional: [sítio alojado pela Câmara dos Deputados do Brasil](https://www2.camara.leg.br/saotomeeprincipe/legislacao) | Edições do Diário da República em PDF (camada de texto do editor) | não | 2 atos |
-| Ministério da Justiça: [justica.gov.st](https://justica.gov.st/) | Edições do Diário da República em PDF (camada de texto do editor) | não | 16 atos |
-| Banco Central de São Tomé e Príncipe: [bcstp.st](https://bcstp.st/) | Edições do Diário da República e diplomas em PDF (camada de texto do editor) | não | 1 atos |
+| Ministério da Justiça: justica.gov.st (fora de linha; lido através de capturas do Internet Archive de 2019–2021) | Edições do Diário da República em PDF (camada de texto do editor) | não | 16 atos |
+| Banco Central de São Tomé e Príncipe: [bcstp.st](https://bcstp.st/) | Edições do Diário da República e diplomas em PDF (camada de texto do editor) | não | 1 ato |
 
 ## Licença
 
