@@ -6,9 +6,7 @@ Publique-se
 
 O Presidente da República, Manuel do Espírito Santo Pinto da Costa.
 
-AVISO
-
-falta de remessa, deve ser dirigida ao Centro de Informática e Reprografia do Ministério da Justiça,
+AVISO falta de remessa, deve ser dirigida ao Centro de Informática e Reprografia do Ministério da Justiça,
 
 Administração Pública, Reforma do Estado e Assuntos Parlamentares – Telefone: 225693 - Caixa
 

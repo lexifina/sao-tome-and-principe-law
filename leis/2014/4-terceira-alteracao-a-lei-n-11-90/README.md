@@ -6,7 +6,7 @@
 
 | Ficheiro | Disposição |
 | --- | --- |
-| [art-001.md](art-001.md) | Artigo 1.º |
+| [art-001.md](art-001.md) | Artigo 1.º (Alteração do Artigo 76.º da Lei n.º 11/90 – Lei Eleitoral) |
 | [art-002.md](art-002.md) | Artigo 2.º (Entrada em Vigor) |
 | [assinaturas.md](assinaturas.md) | Aprovação, promulgação e assinaturas |
 | [preambulo.md](preambulo.md) | Preâmbulo |

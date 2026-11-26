@@ -7,6 +7,7 @@
 | Ficheiro | Disposição |
 | --- | --- |
 | [art-001.md](art-001.md) | Artigo 1.º (Criação) |
+| [art-002.md](art-002.md) | Artigo 2.º (Responsabilidade do Comité) |
 | [art-003.md](art-003.md) | Artigo 3.º (Atribuições) |
 | [art-004.md](art-004.md) | Artigo 4.º (Composição) |
 | [art-005.md](art-005.md) | Artigo 5.º (Órgão executivo) |

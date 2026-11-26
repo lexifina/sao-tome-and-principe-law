@@ -959,7 +959,7 @@
    "in_force_basis": null,
    "date_basis": "published",
    "gazette_issue": "2017/32",
-   "provision_files": 9,
+   "provision_files": 10,
    "source": "https://web.archive.org/web/20190923034859id_/http://justica.gov.st/resources/documents/Leis/decretos-%20reformas.pdf",
    "via": "Ministério da Justiça",
    "source_sha256": "ff462ed5dd99016e4a26652b799c2b53fe836359e670c9f7e249f37c77385b86"
@@ -974,7 +974,7 @@
    "in_force_basis": "entra em vigor à data da sua publicação.",
    "date_basis": "in-force",
    "gazette_issue": "2017/32",
-   "provision_files": 12,
+   "provision_files": 13,
    "source": "https://web.archive.org/web/20190923034859id_/http://justica.gov.st/resources/documents/Leis/decretos-%20reformas.pdf",
    "via": "Ministério da Justiça",
    "source_sha256": "ff462ed5dd99016e4a26652b799c2b53fe836359e670c9f7e249f37c77385b86"
@@ -1758,21 +1758,6 @@
    "source": "https://faolex.fao.org/docs/pdf/sao221617.pdf",
    "via": "FAOLEX",
    "source_sha256": "0c5a92210778f0bbd2d3da5e30b2d98acd939ec6ac215a29893984239ec8a281"
-  },
-  {
-   "path": "resolucoes/2024/82-xii-e-aprovada-para-ratificacao-a-revisao-do",
-   "law": "Resolução n.º 82/XII/2024",
-   "type": "Resolução",
-   "title": "É aprovada, para ratificação, a Revisão do ção dos Contratos Públicos em São Tomé e Estatuto da CPLP, celebrada em 20 de Julho Príncipe. de 2017, em Brasília",
-   "published": "2024-09-19",
-   "in_force": null,
-   "in_force_basis": null,
-   "date_basis": "published",
-   "gazette_issue": "2024/49",
-   "provision_files": 2,
-   "source": "https://faolex.fao.org/docs/pdf/sao231108.pdf",
-   "via": "FAOLEX",
-   "source_sha256": "d871936ba191678db8be2de1de7a1638165e64808fff76ca5a064b939f0807bb"
   },
   {
    "path": "leis/2025/3-lei-organica-do-banco-central-de-sao",

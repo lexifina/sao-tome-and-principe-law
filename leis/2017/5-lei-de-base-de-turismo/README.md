@@ -22,8 +22,8 @@
 | [art-014.md](art-014.md) | Artigo 14.º (Agentes públicos do Turismo) |
 | [art-015.md](art-015.md) | Artigo 15.º (Prestadores de produtos e serviços turísticos) |
 | [art-016.md](art-016.md) | Artigo 16.º (Direitos dos prestadores de serviços turísticos) |
-| [art-017.md](art-017.md) | Artigo 17.º |
-| [art-018.md](art-018.md) | Artigo 18.º |
+| [art-017.md](art-017.md) | Artigo 17.º (Deveres dos prestadores de produtos e serviços turísticos) |
+| [art-018.md](art-018.md) | Artigo 18.º (Entidades representativas do sector privado na área do Turismo) |
 | [art-019.md](art-019.md) | Artigo 19.º (Direitos) |
 | [art-020.md](art-020.md) | Artigo 20.º (Deveres) |
 | [art-021.md](art-021.md) | Artigo 21.º (Suporte financeiro) |

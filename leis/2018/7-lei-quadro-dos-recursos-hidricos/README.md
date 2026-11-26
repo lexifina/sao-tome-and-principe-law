@@ -15,9 +15,9 @@
 | [art-007.md](art-007.md) | Artigo 7.º (Ministério tutelar) |
 | [art-008.md](art-008.md) | Artigo 8.º (Sistema nacional de gestão das águas) |
 | [art-009.md](art-009.md) | Artigo 9.º |
-| [art-010.md](art-010.md) | Artigo 10.º |
+| [art-010.md](art-010.md) | Artigo 10.º (Constituição e natureza do Conselho Nacional das Águas) |
 | [art-011.md](art-011.md) | Artigo 11.º (Atribuições) |
-| [art-012.md](art-012.md) | Artigo 12.º |
+| [art-012.md](art-012.md) | Artigo 12.º (Constituição, natureza e atribuições do Comité Nacional de Bacias Hidrográficas) |
 | [art-013.md](art-013.md) | Artigo 13.º (Política) |
 | [art-014.md](art-014.md) | Artigo 14.º (Objectivo) |
 | [art-015.md](art-015.md) | Artigo 15.º (Sistema de planeamento) |
@@ -25,7 +25,7 @@
 | [art-017.md](art-017.md) | Artigo 17.º (Propriedade das águas) |
 | [art-018.md](art-018.md) | Artigo 18.º (Instrumentos) |
 | [art-019.md](art-019.md) | Artigo 19.º (Enquadramento) |
-| [art-020.md](art-020.md) | Artigo 20.º |
+| [art-020.md](art-020.md) | Artigo 20.º (Massas de água artificiais ou fortemente modificadas) |
 | [art-021.md](art-021.md) | Artigo 21.º (Objectivos) |
 | [art-022.md](art-022.md) | Artigo 22.º (Direito de acesso à informação) |
 | [art-023.md](art-023.md) | Artigo 23.º (Conferência nacional das águas) |
@@ -36,13 +36,13 @@
 | [art-028.md](art-028.md) | Artigo 28.º (Uso comum e privado) |
 | [art-029.md](art-029.md) | Artigo 29.º (Uso integrado) |
 | [art-030.md](art-030.md) | Artigo 30.º (Requisitos e condições dos títulos de utilização) |
-| [art-031.md](art-031.md) | Artigo 31.º |
+| [art-031.md](art-031.md) | Artigo 31.º (Comunicação prévia à obtenção da autorização) |
 | [art-032.md](art-032.md) | Artigo 32.º (Autorização de uso das águas) |
 | [art-033.md](art-033.md) | Artigo 33.º (Utilização de recursos hídricos particulares) |
-| [art-034.md](art-034.md) | Artigo 34.º |
+| [art-034.md](art-034.md) | Artigo 34.º (Utilizações do domínio público sujeitas à licença) |
 | [art-035.md](art-035.md) | Artigo 35.º (Utilizações do domínio público sujeitas à) |
 | [art-036.md](art-036.md) | Artigo 36.º (Ordem de preferência dos usos) |
-| [art-037.md](art-037.md) | Artigo 37.º |
+| [art-037.md](art-037.md) | Artigo 37.º (Programas de medidas de protecção e valorização) |
 | [art-038.md](art-038.md) | Artigo 38.º (Monitorização) |
 | [art-039.md](art-039.md) | Artigo 39.º (Fiscalização) |
 | [art-040.md](art-040.md) | Artigo 40.º (Inspecção) |
@@ -52,13 +52,13 @@
 | [art-044.md](art-044.md) | Artigo 44.º (Aplicação de valores cobrados) |
 | [art-045.md](art-045.md) | Artigo 45.º (Objectivo) |
 | [art-046.md](art-046.md) | Artigo 46.º (Gestão) |
-| [art-047.md](art-047.md) | Artigo 47.º |
+| [art-047.md](art-047.md) | Artigo 47.º (Planos plurianuais de aplicação dos recursos do fundo) |
 | [art-048.md](art-048.md) | Artigo 48.º (Receitas do Fundo) |
 | [art-049.md](art-049.md) | Artigo 49.º (Do destino das receitas do fundo) |
 | [art-050.md](art-050.md) | Artigo 50.º (Âmbito de aplicação) |
 | [art-051.md](art-051.md) | Artigo 51.º (Amostras) |
 | [art-052.md](art-052.md) | Artigo 52.º (Métodos analíticos) |
-| [art-053.md](art-053.md) | Artigo 53.º |
+| [art-053.md](art-053.md) | Artigo 53.º (Quantidade e qualidade das águas subterrâneas) |
 | [art-054.md](art-054.md) | Artigo 54.º (Conservação) |
 | [art-055.md](art-055.md) | Artigo 55.º (Tipos de infracções) |
 | [art-056.md](art-056.md) | Artigo 56.º (Advertência) |

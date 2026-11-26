@@ -4,9 +4,7 @@ Visto e aprovado em Conselho de Ministros, em São Tomé, 07 de Março de 2017.-
 
 Gonçalves Botelho;
 
-Ministro
-
-das Justiça,
+Ministro das Justiça,
 
 Administração Publica e Direitos Humanos, Drª.
 
@@ -188,9 +186,7 @@ AVISO
 
 48 Bilma Edney 1ª Secretária Efectividade Bandeira Mandinga 49 Fernando Simão 1º Secretário Disponibilidade 50 Gika Makeba da 1º Secretário Efectividade Graça Simão 51 Gilberto Vaz de 1º Secretário Efectividade Andrade 52 Hedwirame Monteiro 1ª Secretária Efectividade dos Santos 53 Kátia Carvalho 1ª Secretária Efectividade Marques d’Alva
 
-54 Maria de Lourdes 1ª Secretária Disponibilidade Salvaterra Dias 55 Nilson Francisco dos 1º Secretário Efectividade Reis Lima 56 Rui Alexandre César 1º Secretário Efectividade 57 Amawry Sarim 2º Secretário Efectividade Nobre Ramos 58 Edmilson das Neves 2º Secretário Efectividade Cravid 59 Hermansson de 2º Secertário Efectividade Freitas Maquengo 60 Manela Vila Nova 2ª Secretária Efectividade 61 Nicolau Neto Lima 2º Secretário Efectividade 62 Nelson Nazaré 2º Secretário Efectividade 63 Rosa Simão 2ª Secretária Disponibilidade 64 Daena Menezes 2ª Secretária Efectividade Costa Neto 65 Djazalde Pires dos 2º Secretário Efectividade Santos 66 Miriam Kercelene 2ª Secretária Efectividade 67 Nádia Alexandra 2ª Secretária Efectividade Lima Viegas 68 N’Dginga Trovoada 2ª Secretária Efectividade da Costa 69 Paulo de Araújo de 2º Secretário Efectividade Ceita 70 Tânia do Rosário 3ª Secretária Efectividade
-
-ou falta de remessa, deve ser dirigida ao Centro de Informática e Reprografia do Ministério da Justiça,
+54 Maria de Lourdes 1ª Secretária Disponibilidade Salvaterra Dias 55 Nilson Francisco dos 1º Secretário Efectividade Reis Lima 56 Rui Alexandre César 1º Secretário Efectividade 57 Amawry Sarim 2º Secretário Efectividade Nobre Ramos 58 Edmilson das Neves 2º Secretário Efectividade Cravid 59 Hermansson de 2º Secertário Efectividade Freitas Maquengo 60 Manela Vila Nova 2ª Secretária Efectividade 61 Nicolau Neto Lima 2º Secretário Efectividade 62 Nelson Nazaré 2º Secretário Efectividade 63 Rosa Simão 2ª Secretária Disponibilidade 64 Daena Menezes 2ª Secretária Efectividade Costa Neto 65 Djazalde Pires dos 2º Secretário Efectividade Santos 66 Miriam Kercelene 2ª Secretária Efectividade 67 Nádia Alexandra 2ª Secretária Efectividade Lima Viegas 68 N’Dginga Trovoada 2ª Secretária Efectividade da Costa 69 Paulo de Araújo de 2º Secretário Efectividade Ceita 70 Tânia do Rosário 3ª Secretária Efectividade ou falta de remessa, deve ser dirigida ao Centro de Informática e Reprografia do Ministério da Justiça,
 
 Administração Pública e dos Direitos Humanos – Telefone: 2225693 - Caixa Postal n.º 901 – E-mail:
 

@@ -11,8 +11,8 @@ Um ficheiro por artigo; um commit por versão de cada ato. / One file per articl
 | `decretos-lei/` | `decretos-lei/<ano>/<número>-<assunto>/` | 28 |
 | `decretos-presidenciais/` | `decretos-presidenciais/<ano>/…` | 4 |
 | `leis/` | `leis/<ano>/<número>-<assunto>/` | 35 |
-| `resolucoes/` | `resolucoes/<ano>/<número>-<legislatura>-<assunto>/` | 19 |
-| `diario-da-republica/<ano>/<número>/` | índice de cada edição do Diário da República: os atos dela neste repositório | 94 |
+| `resolucoes/` | `resolucoes/<ano>/<número>-<legislatura>-<assunto>/` | 18 |
+| `diario-da-republica/<ano>/<número>/` | índice de cada edição do Diário da República: os atos dela neste repositório | 93 |
 
 Em cada pasta de ato / In each act folder:
 

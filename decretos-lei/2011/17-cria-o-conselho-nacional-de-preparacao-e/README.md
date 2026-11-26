@@ -22,7 +22,7 @@
 | [anexo/art-015.md](anexo/art-015.md) | Artigo 15.º (Designação dos Órgãos) |
 | [anexo/art-016.md](anexo/art-016.md) | Artigo 16.º (Comissão Consultiva) |
 | [anexo/art-017.md](anexo/art-017.md) | Artigo 17.º |
-| [anexo/art-018.md](anexo/art-018.md) | Artigo 18.º |
+| [anexo/art-018.md](anexo/art-018.md) | Artigo 18.º (Comissões Técnicas Distritais e Regional de Gestão de Calamidades) |
 | [anexo/art-019.md](anexo/art-019.md) | Artigo 19.º (Conselho Fiscal) |
 | [anexo/art-020.md](anexo/art-020.md) | Artigo 20.º (Vinculação) |
 | [anexo/art-021.md](anexo/art-021.md) | Artigo 21.º (Estatuto do Pessoal) |
