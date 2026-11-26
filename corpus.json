@@ -950,6 +950,21 @@
    "source_sha256": "0e852dc7abc40c7d06ed1ef6797f38216fcdf575edb71bcc2009f2eb70610e93"
   },
   {
+   "path": "decretos-lei/2016/19-codigo-de-investimentos",
+   "law": "Decreto-Lei n.º 19/2016",
+   "type": "Decreto-Lei",
+   "title": "Código de Investimentos",
+   "published": "2016-11-17",
+   "in_force": "2016-11-18",
+   "in_force_basis": "entra em vigor no dia seguinte ao da sua publicação.",
+   "date_basis": "in-force",
+   "gazette_issue": "2016/172",
+   "provision_files": 43,
+   "source": "https://www.wipo.int/edocs/lexdocs/laws/pt/st/st008pt.pdf",
+   "via": "WIPO Lex",
+   "source_sha256": "b89809f6f58e65028829008f548d863b49562d23f1da1b24ba2529c6aa5d88fb"
+  },
+  {
    "path": "decretos-presidenciais/2016/25-texto",
    "law": "Decreto Presidencial n.º 25/2016",
    "type": "Decreto Presidencial",

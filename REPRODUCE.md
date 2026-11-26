@@ -92,6 +92,7 @@ Sources (publisher PDFs of the Diário da República, I Série, read from their 
 | Banco Central de São Tomé e Príncipe | <https://bcstp.st/> | 1 |
 | Ministério da Justiça | <https://justica.gov.st/> | 16 |
 | Assembleia Nacional (site hosted by the Brazilian Câmara dos Deputados) | <https://www2.camara.leg.br/saotomeeprincipe/> | 2 |
+| WIPO Lex (secondary copy) | <https://www.wipo.int/wipolex/en/members/profile/ST> | 1 |
 
 The official-host and WIPO Lex PDF addresses were first found in a third-party URL list (Hugging Face `endomorphosis/ipfs_saotome_laws`); only the addresses were used, every PDF was fetched from its own host.
 
