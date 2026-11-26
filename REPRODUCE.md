@@ -88,7 +88,12 @@ Sources (publisher PDFs of the Diário da República, I Série, read from their 
 | Source | Address | Acts |
 | --- | --- | ---: |
 | Direcção Geral dos Registos e do Notariado (DGRN), page "Legislações" | <https://dgrn.gov.st/Legislacao.php> | 17 |
-| FAOLEX (FAO) copies of Diário da República editions, listed through ECOLEX | <https://faolex.fao.org/> · <https://www.ecolex.org/> | 54 |
+| FAOLEX (FAO) copies of Diário da República editions, listed through ECOLEX (secondary copy) | <https://faolex.fao.org/> · <https://www.ecolex.org/> | 86 |
+| Banco Central de São Tomé e Príncipe | <https://bcstp.st/> | 1 |
+| Ministério da Justiça | <https://justica.gov.st/> | 14 |
+| Assembleia Nacional (site hosted by the Brazilian Câmara dos Deputados) | <https://www2.camara.leg.br/saotomeeprincipe/> | 2 |
+
+The official-host and WIPO Lex PDF addresses were first found in a third-party URL list (Hugging Face `endomorphosis/ipfs_saotome_laws`); only the addresses were used, every PDF was fetched from its own host.
 
 Steps (scripts in the Lexifina build tree, `runner/`):
 
@@ -98,6 +103,14 @@ Steps (scripts in the Lexifina build tree, `runner/`):
    the edition split at each act heading (Lei, Decreto-Lei, Decreto, Resolução, …), each act split at its `Artigo N.º` headings.
 3. Each act is one commit dated noon on the publication day. The same act found in two PDFs is taken once (the longer text).
 4. Not taken: PDFs without a text layer (scans; no OCR), despachos, avisos, appointments and other procedural acts, and acts whose
-   column order or article numbering could not be read reliably (69 held; listed in the build state).
+   column order or article numbering could not be read reliably (33 held; listed in the build state).
+
+5. `st_pass2.py run` re-reads every PDF with `st_columns.py`, a column-aware reader: line boxes mapped to the displayed page
+   (rotated pages included), clean vertical gutters split into columns, full-width lines split the page into bands, each band read
+   left column then right. Acts the first pass held for column order are admitted when they pass the same gates (plus a check for
+   table text run into the act). Where the act says when it enters into force (on publication, the next day, N days after
+   publication, or a stated date), the commit is dated that day with `In-force:` / `In-force-basis:` trailers.
+6. `st_inforce.py run` reads the vigência article of acts committed earlier by publication day and records it in their README
+   and corpus.json (one appended `Kind: correction` commit; history is not rewritten).
 
 Limits: each act is the edition as published; later amendments are not applied and current text is not claimed.
